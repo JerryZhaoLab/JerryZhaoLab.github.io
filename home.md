@@ -1,6 +1,6 @@
 ---
 title: LongGene Lab @ NYIT (Jerry Zhao)
-layout: Home
+layout: page
 group: Home
 ---
 
