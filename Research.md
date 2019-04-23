@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Research in the LongGene Lab
 permalink: /Research/
 ---
