@@ -7,10 +7,6 @@ permalink: /contact/
 # Contact the LongGene Lab
 
 
-<div class="row">
-
-<div class="col-md-4">
-
   <h4>Jerry Zhao (赵营涛) </h4>
   Assistant Professor  <br>
   Department of Biomedical Sciences <br>
@@ -22,6 +18,6 @@ permalink: /contact/
   E-mail: jerryzhao (at) nyit.com <br>
   Tel: 267 809 619 four
  
-</div>
 
-</div>
+
+
