@@ -1,7 +1,6 @@
 ---
-layout: page
-title: contact
-permalink: /Contact/
+title: Contact
+permalink: /contact/
 --- 
 
 # Contact the LongGene Lab
