@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Research in the LongGene Lab
-permalink: /Research/
+title: Research 
 ---
  
 <img class="img-responsive center-block" src="/static/img/zhaoat###.jpg" alt="Zhao at ###">
