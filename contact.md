@@ -1,5 +1,5 @@
 ---
-title: Contact the LongGene Lab
+title: contact
 permalink: /Contact/
 --- 
 
