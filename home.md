@@ -1,7 +1,6 @@
 ---
-title: LongGene Lab @ NYIT (Jerry Zhao)
-layout: page
-group: Home
+title: Home
+permalink: /home/
 ---
 
 # Welcome to the LongGene Lab!
