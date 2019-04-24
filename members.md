@@ -7,6 +7,8 @@ permalink: /members/
 <h3>Principal Investigator</h3>
 
 <img width="300" src="/images/jerry_zhao_1.jpg" data-action="zoom">
+ <br>
+
 Jerry Zhao  (赵营涛)<br>
 Assistant Professor<br>
 'jerryzhao (at) nyit.edu'<br>
