@@ -20,6 +20,6 @@ The brain is an organ that contains billions of neurons and non-neuronal cells. 
 <img width="300" src="/img/Aim2_1.jpg" data-action="zoom"><br>
 
 
-## Discover new information from omics data using Machine Learning algorithms.
+## Discover new biomedical information from omics data using Machine Learning algorithms.
 Biomedical research has experienced an explosion of new data in the past few years. However, many of these data were generated to test pre-defined hypotheses, indicating that new biomedical information unrelated to the hypotheses may remain hidden in the data. Machine Learning algorithms uncover hidden patterns, unknown correlations, and other insights through examining large-scale datasets, which provide a feasible opportunity to develop efficient and effective approaches to discover new information from omics datasets. This new information might be a stepping stone for further biomedical investigations. Thus, we plan to apply Machine Learning algorithms in omics data to discover new biomedical information. We utilize clustering methods (K-Means and Autoencoder) and classifier methods (deep Neural Network) in TensorFlow and Scikit-learn.<br>
 <img width="300" src="/img/Aim3_1.jpg" data-action="zoom">
