@@ -4,7 +4,7 @@ title: contact
 permalink: /contact/
 --- 
 
-# Contact the LongGene Lab
+# Contact the ML-Omics Lab
 
 
 <h4>Jerry Zhao</h4>
