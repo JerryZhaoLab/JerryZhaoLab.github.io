@@ -19,7 +19,7 @@ E-mail: jerryzhao (at) nyit.com<br>
 Tel: 267 809 619 four<br>
  <br>
 
-<img width="300" src="/img/ML_Omics_Lab_googlemap_1.jpg" data-action="zoom">
+<img width="300" src="/img/ML_Omics_Lab_googlemap_1.png" data-action="zoom">
 
 
 
