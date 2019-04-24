@@ -7,7 +7,7 @@ permalink: /openings/
   
 We currently have an open position for ***a postdoctoral fellow*** and an open position for ***a technician*** in our lab.<br>
  <br>
-If you are interested in this opportunity, please send an email with your CV and the names of three referees to jerryzhao at nyit dot edu.<br>
+If you are interested in these opportunities, please send an email with your CV and the names of three referees to jerryzhao at nyit dot edu.<br>
  <br>
  
 **Postdoctoral Fellows**<br>
