@@ -3,11 +3,11 @@ title: Home
 permalink: /home/
 ---
 
-# Welcome to the LongGene Lab!
+# Welcome to the Multi-Layer Omics (ML-Omics) Lab!
 
-We are part of the [Department of Biomedical Sciences](https://www.nyit.edu/medicine/department_of_biomedical_sciences) and the Innovation Center.<br>
+We are part of the [Department of Biomedical Sciences](https://www.nyit.edu/medicine/department_of_biomedical_sciences) and the Innovation Center in the [College of Osteopathic Medicine](https://www.nyit.edu/medicine).<br>
  <br>
-We are located in the Riland Building at the Long Island campus of New York Institute of Technology (NYIT).<br>
+We are located in the Riland Building at the Long Island campus of [New York Institute of Technology (NYIT)](https://www.nyit.edu/).<br>
 
  <br>
   <br>
