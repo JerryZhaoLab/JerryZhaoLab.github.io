@@ -5,7 +5,7 @@ permalink: /home/
 
 # Welcome to the ML-Omics Lab!
 
-<img width="300" src="/images/ML_Omics_Lab_1.jpg" data-action="zoom">
+<img width="300" src="/img/ML_Omics_Lab_1.jpg" data-action="zoom">
 
 We are part of the [Department of Biomedical Sciences](https://www.nyit.edu/medicine/department_of_biomedical_sciences) and the Innovation Center in the [College of Osteopathic Medicine](https://www.nyit.edu/medicine) at [New York Institute of Technology (NYIT)](https://www.nyit.edu/).<br>
   <br>
