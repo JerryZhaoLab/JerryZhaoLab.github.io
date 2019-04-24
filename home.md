@@ -16,7 +16,7 @@ Research in the Multi-Layer Omics Laboratory (ML-Omics Lab) directed by Dr. **"J
 We are particularly interested in long genes and the mechanisms regulating long genes transcription and splicing.<br>
  <br>
  
-The lab utilizes approaches including genomics, epigenomics, bioinformatics, computational biology, and mouse genetics.<br>
+The lab utilizes multidisciplinary approaches including genomics, epigenomics, bioinformatics, computational biology, and mouse genetics.<br>
  <br>
  <br>
 
