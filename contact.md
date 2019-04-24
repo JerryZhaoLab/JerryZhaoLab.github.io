@@ -4,7 +4,7 @@ title: contact
 permalink: /contact/
 --- 
 
-# Contact the ML-Omics Lab
+# Contact the ML-Omics Lab<br>
 
 
 <h4>Jerry Zhao</h4>
