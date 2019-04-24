@@ -5,9 +5,9 @@ permalink: /contact/
 --- 
 
 # Contact the ML-Omics Lab<br>
-
-
-<h4>Jerry Zhao</h4>
+ <br>
+ 
+**Jerry Zhao**
 Assistant Professor<br>
 Department of Biomedical Sciences<br>
 Innovation Center<br>
