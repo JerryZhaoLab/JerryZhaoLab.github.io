@@ -7,7 +7,7 @@ permalink: /contact/
 # Contact the LongGene Lab
 
 
-<h4>Jerry Zhao (赵营涛)</h4>
+<h4>Jerry Zhao</h4>
 Assistant Professor<br>
 Department of Biomedical Sciences<br>
 Innovation Center<br>
