@@ -9,7 +9,7 @@ permalink: /members/
 <img width="300" src="/img/jerry_zhao_1.jpg" data-action="zoom">
 "Jerry" Ying-Tao Zhao<br>
 Assistant Professor<br>
-'jerryzhao (at) nyit.edu'<br>
+'yzhao47 (at) nyit.edu'<br>
   <br>
   2005, BS, Economics, Nanjing University<br>
   2010, PhD, Bioinformatics, Chinese Academy of Sciences<br>
@@ -21,6 +21,7 @@ Jerry was an undergraduate at Nanjing University, where he worked on models of e
 
 
  <h3>Trainee</h3>
+ 
  
  <h3>Staff</h3>
  
