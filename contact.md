@@ -10,7 +10,6 @@ permalink: /contact/
 **Jerry Zhao**<br>
 Assistant Professor<br>
 Department of Biomedical Sciences<br>
-Innovation Center<br>
 New York Institute of Technology<br>
 College of Osteopathic Medicine<br>
 Old Westbury, NY 11568<br>
