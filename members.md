@@ -7,6 +7,7 @@ permalink: /members/
 <h3>Principal Investigator</h3>
 
 <img width="300" src="/img/Jerry01_400.png" data-action="zoom">
+ <br>
 Ying-Tao "Jerry" Zhao<br>
 Assistant Professor<br>
 'yzhao47 (at) nyit.edu'<br>
