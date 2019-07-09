@@ -8,7 +8,8 @@ permalink: /news/
  <br>
  
 **Day one (07/01/2019)**<br>
-<img width="300" src="/img/Day1_1.jpg" data-action="zoom">
-<img width="300" src="/img/Day1_2.jpg" data-action="zoom">
+ <br>
+<img width="400" src="/img/Day1_1.jpg" data-action="zoom">
+<img width="400" src="/img/Day1_2.jpg" data-action="zoom">
 
 
