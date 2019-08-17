@@ -12,8 +12,9 @@ Ying-Tao "Jerry" Zhao<br>
 Assistant Professor<br>
 'yzhao47 (at) nyit.edu'<br>
   <br>
-  2005, BS, Economics, Nanjing University<br>
-  2010, PhD, Bioinformatics, Chinese Academy of Sciences<br>
+  BS, Economics, <a href="https://www.nju.edu.cn/EN/">Nanjing University</a> (2005)<br>
+  PhD, Bioinformatics, <a href="http://english.genetics.cas.cn/">Chinese Academy of Sciences</a> (2010)<br>
+  Postdoc, Neuroepigenetics, <a href="https://home.www.upenn.edu/">University of Pennsylvania</a><br>
  <br>
 
 
