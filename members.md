@@ -18,7 +18,7 @@ Assistant Professor<br>
  <br>
 
 
-Jerry was an undergraduate at Nanjing University, where he worked on models of economic growth. He was inspired by the Human Genome Project and moved to Beijing in 2005 to do his PhD in Bioinformatics at the Chinese Academy of Sciences. There, he worked with Dr. Xiu-Jie Wang developing computational methods to characterize small non-coding RNAs. In September 2011, Jerry joined Joe Zhou's lab at the University of Pennsylvania, where he investigated the role of epigenetic mechanisms in the etiology of Rett syndrome and Autism Spectrum Disorder. Jerry started his independent career as an Assistant Professor in the Department of Biomedical Sciences at NYIT in July 2019. 
+Jerry was an undergraduate at Nanjing University, where he worked on models of economic growth. He was inspired by the Human Genome Project and moved to Beijing in 2005 to pursue his PhD in Bioinformatics at the Chinese Academy of Sciences. There, he worked with Dr. Xiu-Jie Wang developing computational methods to characterize non-coding RNAs. In September 2011, Jerry joined Joe Zhou's lab at the University of Pennsylvania, where he investigated the role of epigenetic mechanisms in the etiology of Rett syndrome and Autism Spectrum Disorder. Jerry started his independent career as an Assistant Professor in the Department of Biomedical Sciences at NYIT in July 2019. 
 
 
 
