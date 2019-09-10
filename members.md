@@ -10,7 +10,7 @@ permalink: /members/
  <br>
 Ying-Tao "Jerry" Zhao<br>
 Assistant Professor<br>
-'yzhao47@nyit.edu'<br>
+yzhao47@nyit.edu<br>
   <br>
   BS, Economics, <a href="https://www.nju.edu.cn/EN/">Nanjing University</a> (2005)<br>
   PhD, Bioinformatics, <a href="http://english.genetics.cas.cn/">Chinese Academy of Sciences</a> (2010)<br>
