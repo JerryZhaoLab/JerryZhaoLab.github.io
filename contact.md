@@ -16,8 +16,8 @@ College of Osteopathic Medicine<br>
 Riland building, room 024<br>
 Old Westbury, NY 11568<br>
  <br>
-E-mail: yzhao47 (at) nyit.edu<br>
-Tel: 516 686 376 four<br>
+E-mail: 'yzhao47@nyit.edu'<br>
+Tel: 516 686 3764<br>
  <br>
 
 <img width="800" src="/img/ML_Omics_Lab_googlemap_1.png" data-action="zoom">
