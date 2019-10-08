@@ -11,7 +11,7 @@ If you are interested in these opportunities, please send an email with your CV 
  <br>
  
 **Postdoctoral Fellows**<br>
-We are recruiting a highly motivated postdoctoral fellow with interests in genomics, computational biology, or neuroscience. Successful candidates should have a recent Ph.D. degree, with a strong background in one or more of the following areas: mouse genetics, computational biology, and neuroscience. Prior experience with high throughput sequencing or developing/using mouse models is a plus.<br>
+We are recruiting a highly motivated postdoctoral fellow with interests in genomics, computational biology, epigenetics, or neuroscience. Successful candidates should have a recent Ph.D. degree, with a strong background in one or more of the following areas: genomics, epigenetics, computational biology, mouse genetics, and neuroscience. Prior experience with high throughput sequencing or developing/using mouse models is a plus.<br>
  <br>
  
 **Technician**<br>
