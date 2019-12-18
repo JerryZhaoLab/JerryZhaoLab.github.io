@@ -9,7 +9,7 @@ permalink: /news/
   <br>
  **Jerry** and **Dr. Yang Shi (Harvard Medical School)**<br>
  Dr. Shi's lab discovered the first histone demethylase.<br>
- <img width="400" src="/img/Fox_01.png" data-action="zoom">
+ <img width="400" src="/img/Fox_02.png" data-action="zoom">
   <br>
   <br>
   <br>
