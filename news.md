@@ -7,9 +7,12 @@ permalink: /news/
 # News @ the Long Gene Lab<br>
  <br>
  
- **Jerry Presented at the Fox Chase Cancer Center Epigenetics Symposium (16/12/2019)**<br>
+ **Jerry** presented at the **Fox Chase Cancer Center Epigenetics Symposium** (16/12/2019)<br>
   <br>
-  
+ **Jerry** and **Dr. Yang Shi (Harvard Medical School)**<br>
+ Dr. Shi's lab discovered the first histone demethylase.<br>
+ <img width="400" src="/img/Fox_01.jpg" data-action="zoom">
+ 
  
 **Day one (07/01/2019)**<br>
  <br>
