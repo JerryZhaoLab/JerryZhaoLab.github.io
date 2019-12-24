@@ -6,10 +6,9 @@ permalink: /publications/
 
 Jerry Zhao's [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=Sq8wrbQAAAAJ&view_op=list_works&sortby=pubdate) and [NCBI Bibliography](https://www.ncbi.nlm.nih.gov/myncbi/1v35dpemirpQW/bibliography/public/).
 
-<hr>
  <br>
 
-### New York Institute of Technology
+### New York Institute of Technology (2019-)
 _Genomic architecture of Shh dependent cochlear morphogenesis_<br>
 Victor Muthu, Alex. M. Rohacek, Yao Yao, Staci M. Rakowiecki, Alexander S. Brown, ***Ying-Tao Zhao***, James Meyers, Kyoung-Jae Won, Shweta Ramdas, Christopher D. Brown, Kevin A. Peterson, Douglas J. Epstein<br>
 ***Development***, 2019 ([PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=31488567)) <br>
@@ -86,5 +85,6 @@ Mengbin Ruan, ***Ying-Tao Zhao***, Zhaohong Meng, Xiu-Jie Wang and Weicai Yang<b
 _Complete sequence determination of a novel reptile iridovirus isolated from soft-shelled turtle and evolutionary analysis of Iridoviridae_<br>
 Youhua Huang, Xiaohong Huang, Hong Liu, Jie Gong, Zhengliang Ouyang, Huachun Cui, Jianhao Cao, ***Yingtao Zhao***, Xiujie Wang, Yulin Jiang, and Qiwei Qin<br>
 ***BMC Genomics***, 2009 ([PubMed](https://www.ncbi.nlm.nih.gov/pubmed/19439104))
+ <br>
 <hr> 
  <br>
