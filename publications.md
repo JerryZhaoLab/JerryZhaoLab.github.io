@@ -8,7 +8,7 @@ Jerry Zhao's [Google Scholar profile](https://scholar.google.com/citations?hl=en
 
  <br>
 
-### New York Institute of Technology ( 2019 -  )
+### New York Institute of Technology ( 2019- )
 _Genomic architecture of Shh dependent cochlear morphogenesis_<br>
 Victor Muthu, Alex. M. Rohacek, Yao Yao, Staci M. Rakowiecki, Alexander S. Brown, ***Ying-Tao Zhao***, James Meyers, Kyoung-Jae Won, Shweta Ramdas, Christopher D. Brown, Kevin A. Peterson, Douglas J. Epstein<br>
 ***Development***, 2019 ([PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=31488567)) <br>
