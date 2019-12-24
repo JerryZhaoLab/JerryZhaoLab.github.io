@@ -19,7 +19,7 @@ E-mail: yzhao47@nyit.edu<br>
 Tel: 516 686 3764<br>
  <br>
 
-<img width="800" src="/img/LongGene_Lab_googlemap_1.png" data-action="zoom">
+<img width="800" src="/img/LongGene_Lab_googlemap_2.png" data-action="zoom">
 
 
 
