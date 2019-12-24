@@ -10,10 +10,10 @@ Jerry Zhao's [Google Scholar profile](https://scholar.google.com/citations?hl=en
  <br>
 
 ### New York Institute of Technology
-### 2019 
 _Genomic architecture of Shh dependent cochlear morphogenesis_<br>
 Victor Muthu, Alex. M. Rohacek, Yao Yao, Staci M. Rakowiecki, Alexander S. Brown, ***Ying-Tao Zhao***, James Meyers, Kyoung-Jae Won, Shweta Ramdas, Christopher D. Brown, Kevin A. Peterson, Douglas J. Epstein<br>
 ***Development***, 2019 ([PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=31488567)) <br>
+ <br>
 <hr> 
  <br>
  
@@ -41,7 +41,7 @@ Yao Yao, Paul J Minor\*, ***Ying-Tao Zhao\****, Yongsu Jeong, Ariel M Pani, Anna
 _Loss of MeCP2 function is associated with distinct gene expression changes in the striatum_<br>
 ***Ying-Tao Zhao\****, Darren Goffin\*, Brian S. Johnson\*, Zhaolan Zhou<br> 
 ***Neurobiology of Disease***, 2013 ([PubMed](https://www.ncbi.nlm.nih.gov/pubmed/23948639))<br>
-
+ <br>
 <hr> 
  <br>
  <br>
@@ -86,3 +86,5 @@ Mengbin Ruan, ***Ying-Tao Zhao***, Zhaohong Meng, Xiu-Jie Wang and Weicai Yang<b
 _Complete sequence determination of a novel reptile iridovirus isolated from soft-shelled turtle and evolutionary analysis of Iridoviridae_<br>
 Youhua Huang, Xiaohong Huang, Hong Liu, Jie Gong, Zhengliang Ouyang, Huachun Cui, Jianhao Cao, ***Yingtao Zhao***, Xiujie Wang, Yulin Jiang, and Qiwei Qin<br>
 ***BMC Genomics***, 2009 ([PubMed](https://www.ncbi.nlm.nih.gov/pubmed/19439104))
+<hr> 
+ <br>
