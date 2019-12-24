@@ -5,13 +5,12 @@ permalink: /news/
 --- 
 
 # News @ the Long Gene Lab<br>
+  <br>
+  
  **12/16/2019:  Jerry** presented at the **Fox Chase Cancer Center Epigenetics Symposium**<br>
   <br>
-  <br>
- 
  
  **09/19/2019:**  The collaboration with the Epstein lab at the University of Pennsylvania titled “**Genomic architecture of Shh-dependent cochlear morphogenesis**” is published in **Development** in September 2019.<br>
-  <br>
   <br>
  
 **07/01/2019:  Day one of the Long Gene Lab**<br>
