@@ -7,7 +7,7 @@ permalink: /news/
 # News @ the Long Gene Lab<br>
   <br>
  
- **1/17/2020:**  Get the evaluation from students for my teaching: "**Dr. Jerry Zhao is a great facilitator. He helped fulfill the purpose of CBL by ...**". 😀 <br>
+ **1/17/2020:**  Get the evaluation from students for my teaching: "**Dr. Jerry Zhao is a great facilitator. He helped fulfill the purpose of CBL by ...**". 😀 ≧◡≦ <br>
   <br>
   
  **12/16/2019:  Jerry** presented at the **Fox Chase Cancer Center Epigenetics Symposium**.<br>
