@@ -5,7 +5,7 @@ permalink: /openings/
 # Research Opportunities<br>
  <br>
   
-We currently have an open position for ***a postdoctoral fellow*** and an open position for ***a technician*** in our lab.<br>
+We currently have an open position for ***a postdoctoral fellow*** in our lab.<br>
  <br>
 If you are interested in these opportunities, please send an email with your CV and the names of three referees to yzhao47 (at) nyit.edu.<br>
  <br>
@@ -15,9 +15,9 @@ We are recruiting a highly motivated postdoctoral fellow with interests in genom
  <br>
  
 **Technician**<br>
-/*We seek a research laboratory technician, who will provide technical support for a research laboratory that includes assistance in genomic data analysis, experimental procedures, animal care, and general lab support. <br>
-*Requirements*<br>*/
-> B.S. or B.A. in computer science, biology, bioengineering, or related field. Minimum 1 year of previous research lab experience. Experience with bioinformatics, molecular biology, cell culture, and lab animals is a plus. Ability to work independently with attention to details. Good communication skills.<br>
+<!---We seek a research laboratory technician, who will provide technical support for a research laboratory that includes assistance in genomic data analysis, experimental procedures, animal care, and general lab support. <br>
+*Requirements*<br>
+B.S. or B.A. in computer science, biology, bioengineering, or related field. Minimum 1 year of previous research lab experience. Experience with bioinformatics, molecular biology, cell culture, and lab animals is a plus. Ability to work independently with attention to details. Good communication skills.<br> --->
  <br>
  
 **Graduate Students**<br>
