@@ -5,9 +5,7 @@ permalink: /openings/
 # Research Opportunities<br>
  <br>
   
-We currently have an open position for ***a postdoctoral fellow*** in our lab.<br>
- <br>
-If you are interested in these opportunities, please send an email with your CV and the names of three referees to yzhao47 (at) nyit.edu.<br>
+We currently have an open position for ***a postdoctoral fellow*** in our lab. If you are interested in this opportunity, please send an email with your CV and the names of three referees to yzhao47@nyit.edu.<br>
  <br>
  
 **Postdoctoral Fellows**<br>
