@@ -7,6 +7,9 @@ permalink: /news/
 # News @ the Long Gene Lab<br>
   <br>
  
+  **2/3/2020:**  **Austin Meadows** joined the Long Gene Lab. **Welcome Austin!** <br>
+  <br>
+  
  **1/17/2020:**  Get my teaching evaluation from students: "**Dr. Jerry Zhao is a great facilitator.**". 😀 ≧◡≦ <br>
   <br>
   
