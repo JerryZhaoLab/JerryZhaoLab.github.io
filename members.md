@@ -22,10 +22,14 @@ Jerry was an undergraduate at Nanjing University, where he worked on models of e
 
 
 
- <h3>Trainee</h3>
- 
- 
  <h3>Staff</h3>
+ 
+ 
+ <h3>Graduate Student </h3>
+ 
+ 
+ <h3>Undergraduate Student </h3>
+ 
  
  <h3>Alumni</h3>
  
