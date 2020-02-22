@@ -23,5 +23,5 @@ We welcome graduate students from all graduate programs at NYIT.<br>
 For rotation opportunities, please send an email describing your research interest along with a copy of your CV to Dr. Zhao.<br>
 
 **Undergraduate Students**<br>
-We accept undergraduate students to join our team.<br>
-To apply for a position, please send an email describing your research interest, your career goals, your expected work schedule, and a copy of your CV to Dr. Zhao.
+<!---We accept undergraduate students to join our team.<br>
+To apply for a position, please send an email describing your research interest, your career goals, your expected work schedule, and a copy of your CV to Dr. Zhao.--->
