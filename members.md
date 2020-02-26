@@ -39,8 +39,11 @@ Austin completed his undergraduate education at Stony Brook University in the Bi
 
  
  <h3>Medical School Student </h3>
- 
- 
+Matan Kadosh<br>
+
+Matan was born and raised in Dallas, Tx, attended the University of Missouri, and currently lives in the heart of New York City. He is curious about the associations between genetics and disease and hopes to incorporate life-long learning throughout his career. He previously studied different mouse models of ALS at both the University of Missouri and Columbia University. Matan is an avid reader and enjoys spending time with friends and family. He is very excited to be discovering and learning in the Long Gene Lab.<br>
+
+
  <h3>Undergraduate Student </h3>
  <img width="300" src="/img/Yura.JPG" data-action="zoom">
 Yura Kim<br>
