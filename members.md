@@ -38,7 +38,7 @@ Austin completed his undergraduate education at Stony Brook University in the Bi
 
 
  
- <h3>Graduate Student </h3>
+ <h3>Medical School Student </h3>
  
  
  <h3>Undergraduate Student </h3>
