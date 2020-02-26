@@ -47,7 +47,11 @@ Yura Kim<br>
 
 Yura is an undergraduate student at New York Institute of Technology in the College of Arts and Sciences. She is currently finishing her third year of the 7 year combined degree program that awards a Bachelor of Science in Life Sciences and a Doctor of Osteopathic Medicine. Yura hopes to complete her undergraduate studies and matriculate into NYITCOM this upcoming Fall of 2020. At NYIT, Yura took many courses concentrated in the core sciences including biochemistry, physiology, microbiology, genetics, and more. She recently finished a biomedical research course where she learned about TERM (tissue engineering and regenerative medicine) and the various lab techniques used in research. In her free time, Yura enjoys volunteering and advocating for children with disabilities. She looks forward to learning more about long genes and gaining research experience. <br>
 
+ <br>
+  <img width="300" src="/img/Mariam.JPG" data-action="zoom">
+Mariam Naghavi<br>
 
- 
+Mariam is in her third year of the seven-year combined Bachelor of Science and Doctor of Osteopathic Medicine studies at NYIT / NYIT College of Osteopathic Medicine in Old Westbury. She hopes to complete her undergraduate studies in the Spring of 2020 and matriculate into the medical school portion of her program this Fall. She has been exposed to a wide variety of courses during her undergraduate studies, ranging from pharmacology to comparative anatomy. In her free time, she enjoys getting involved with the community, watching cooking shows, and snuggling with her dogs. Mariam is eager to collaborate and looks forward to learning more about biomedical research. <br>
+
  <h3>Alumni</h3>
  
