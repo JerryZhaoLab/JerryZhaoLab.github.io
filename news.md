@@ -6,7 +6,13 @@ permalink: /news/
 
 # News @ the Long Gene Lab<br>
   <br>
- 
+  
+  **2/25/2020:**  **Yura Kim and Mariam Naghavi** joined the Long Gene Lab. **Welcome Yura and Mariam!** <br>
+  <br>
+  
+  **2/25/2020:**  **Matan Kadosh** joined the Long Gene Lab. **Welcome Matan!** <br>
+  <br>
+  
   **2/3/2020:**  **Austin Meadows** joined the Long Gene Lab. **Welcome Austin!** <br>
   <br>
   
