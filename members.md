@@ -42,7 +42,13 @@ Austin completed his undergraduate education at Stony Brook University in the Bi
  
  
  <h3>Undergraduate Student </h3>
- 
+ <img width="300" src="/img/Yura.JPG" data-action="zoom">
+ <br>
+Yura Kim<br>
+
+Yura is an undergraduate student at New York Institute of Technology in the College of Arts and Sciences. She is currently finishing her third year of the 7 year combined degree program that awards a Bachelor of Science in Life Sciences and a Doctor of Osteopathic Medicine. Yura hopes to complete her undergraduate studies and matriculate into NYITCOM this upcoming Fall of 2020. At NYIT, Yura took many courses concentrated in the core sciences including biochemistry, physiology, microbiology, genetics, and more. She recently finished a biomedical research course where she learned about TERM (tissue engineering and regenerative medicine) and the various lab techniques used in research. In her free time, Yura enjoys volunteering and advocating for children with disabilities. She looks forward to learning more about long genes and gaining research experience. <br>
+
+
  
  <h3>Alumni</h3>
  
