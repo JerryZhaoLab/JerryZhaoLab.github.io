@@ -6,6 +6,12 @@ permalink: /news/
 
 # News @ the Long Gene Lab<br>
   <br>
+
+  **03/03/2020:**  **Brian Tang** joined the Long Gene Lab. **Welcome Brian!** <br>
+  <br>
+  
+  **03/03/2020:**  **Mansi Patel** joined the Long Gene Lab. **Welcome Mansi!** <br>
+  <br>
   
   **2/25/2020:**  **Yura Kim and Mariam Naghavi** joined the Long Gene Lab. **Welcome Yura and Mariam!** <br>
   <br>
