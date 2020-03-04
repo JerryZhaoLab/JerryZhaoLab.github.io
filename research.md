@@ -12,7 +12,7 @@ The lengths of protein-coding genes in the human genome range from 0.2 kilobases
 <br>
 
 
-## 2. Illuminate the role of long genes in Autism spectrum disorder (ASD) etiology.<br>
+## 2. Illuminate the role of long genes in autism spectrum disorder (ASD) etiology.<br>
 Autism spectrum disorder (ASD) is a lifelong developmental disability that affects 1 in 59 children. Hundreds of thousands of families are suffering from ASD. These sufferings can be greatly relieved by therapeutic treatment or cure of ASD. However, this is no cure for ASD so far, largely due to the lack of a good understanding of its molecular mechanisms. These molecular mechanisms are crucial for identifying therapeutic targets. Particularly, a molecular abnormality shared by the large majority of ASD individuals will be an ideal therapeutic target, because it has the potential to help a large portion of ASD individuals. We recently find that misregulation of long genes could be a molecular abnormality shared by the large majority of ASD individuals. We plan to illuminate the role of the misregulation of long genes in ASD etiology. Our research will provide new insights into the molecular mechanisms of ASD and a potential therapeutic target, which will hopefully facilitate the development of ASD treatment and eventually alleviate the suffering of ASD individuals and their families. <br>  
 
 
