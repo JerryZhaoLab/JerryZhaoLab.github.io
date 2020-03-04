@@ -44,6 +44,11 @@ Matan Kadosh<br>
 Matan was born and raised in Dallas, Tx, attended the University of Missouri, and currently lives in the heart of New York City. He is curious about the associations between genetics and disease and hopes to incorporate life-long learning throughout his career. He previously studied different mouse models of ALS at both the University of Missouri and Columbia University. Matan is an avid reader and enjoys spending time with friends and family. He is very excited to be discovering and learning in the Long Gene Lab.<br>
 
 
+Brian Tang<br>
+
+Brian is a graduate of Baruch College (CUNY) and was part of the CUNY Baccalaureate for Unique and Interdisciplinary Studies with concentrations in Biochemistry and Behavioral Neuroscience. He previously worked in a Drosophila lab in which he utilized bioinformatics and wet lab techniques to study genetic influences on the proliferation of crystal cells that are involved in fly immunity. He wrote his undergraduate honors thesis titled “Genetic Basis of Larval Crystal Cell Quantity Variation in the Drosophila Genetic Reference Panel (DGRP).” In the Long Gene Lab, Brian is interested in learning more about integrating bioinformatics and medicine to study genetic related disorders, that can lead to providing patients with more personalized medicine. When he is not studying, he enjoys cooking foods of different cultures and watching anime during his spare time.<br>
+
+
  <h3>Undergraduate Student </h3>
  <img width="300" src="/img/Yura.JPG" data-action="zoom">
  <br>
