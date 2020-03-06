@@ -63,5 +63,14 @@ Mariam Naghavi<br>
 
 Mariam is in her third year of the seven-year combined Bachelor of Science and Doctor of Osteopathic Medicine studies at NYIT / NYIT College of Osteopathic Medicine in Old Westbury. She hopes to complete her undergraduate studies in the Spring of 2020 and matriculate into the medical school portion of her program this Fall. She has been exposed to a wide variety of courses during her undergraduate studies, ranging from pharmacology to comparative anatomy. In her free time, she enjoys getting involved with the community, watching cooking shows, and snuggling with her dogs. Mariam is eager to collaborate and looks forward to learning more about biomedical research. <br>
 
+ <br>
+  <img width="300" src="/img/Mansi.jpeg" data-action="zoom">
+  <br>
+Mansi Patel<br>
+
+Mansi Patel is in her first year of the BS/DO program at NYIT. She is from New Jersey. She likes to play tennis and goes to the beach in her free time. Mansi is interested in learning more about genomics. She looks forward to gaining more research experience.
+<br>
+
+
  <h3>Alumni</h3>
  
