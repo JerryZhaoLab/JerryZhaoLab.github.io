@@ -19,16 +19,16 @@ permalink: /news/
   **03/03/2020:**  **Mansi Patel** joined the Long Gene Lab. **Welcome Mansi!** <br>
   <br>
   
-  **2/25/2020:**  **Yura Kim and Mariam Naghavi** joined the Long Gene Lab. **Welcome Yura and Mariam!** <br>
+  **02/25/2020:**  **Yura Kim and Mariam Naghavi** joined the Long Gene Lab. **Welcome Yura and Mariam!** <br>
   <br>
   
-  **2/25/2020:**  **Matan Kadosh** joined the Long Gene Lab. **Welcome Matan!** <br>
+  **02/25/2020:**  **Matan Kadosh** joined the Long Gene Lab. **Welcome Matan!** <br>
   <br>
   
-  **2/3/2020:**  **Austin Meadows** joined the Long Gene Lab. **Welcome Austin!** <br>
+  **02/03/2020:**  **Austin Meadows** joined the Long Gene Lab. **Welcome Austin!** <br>
   <br>
   
- **1/17/2020:**  Get my teaching evaluation from students: "**Dr. Jerry Zhao is a great facilitator.**". 😀 ≧◡≦ <br>
+ **01/17/2020:**  Get my teaching evaluation from students: "**Dr. Jerry Zhao is a great facilitator.**". 😀 ≧◡≦ <br>
   <br>
   
  **12/16/2019:  Jerry** presented at the **Fox Chase Cancer Center Epigenetics Symposium**.<br>
