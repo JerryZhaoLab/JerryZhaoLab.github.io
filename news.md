@@ -10,6 +10,9 @@ permalink: /news/
   **06/11/2020:**  Our website **LongGeneDB** (https://nyit.edu/longgenedb) is up and running.  Thank you for your great work, **Nick Lombardi, Mihir Matalia, Yura Kim, and Mariam Naghavi.** <br>
   <br>
   
+  **04/14/2020:**  **Brian and Matan** have been awarded the Summer 2020 NYITCOM Student Research Fellowship. **Congratulations!** <br>
+  <br>
+  
   **03/03/2020:**  **Brian Tang** joined the Long Gene Lab. **Welcome Brian!** <br>
   <br>
   
