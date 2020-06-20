@@ -8,7 +8,7 @@ permalink: /members/
 
 <img width="300" src="/img/Jerry01_400.png" data-action="zoom">
  <br>
-Yingtao "Jerry" Zhao<br>
+Jerry Ying-Tao Zhao<br>
 Assistant Professor<br>
 yzhao47@nyit.edu<br>
   <br>
