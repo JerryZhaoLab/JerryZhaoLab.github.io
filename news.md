@@ -7,7 +7,7 @@ permalink: /news/
 # News @ the Long Gene Lab<br>
   <br>
   
-  **06/29/2020:**  Our website **LongGeneDB** (https://longgenedb.com/) is up and running.  Thank you for your great work, **Yura and Mariam.** <br>
+  **06/28/2020:**  Our website **LongGeneDB** (https://longgenedb.com/) is up and running.  Thank you for your great work, **Yura and Mariam.** <br>
   <br>
   
   **04/14/2020:**  **Brian and Matan** have been awarded the Summer 2020 NYITCOM Student Research Fellowship. **Congratulations!** <br>
