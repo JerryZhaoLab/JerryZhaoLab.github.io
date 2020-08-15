@@ -10,7 +10,7 @@ Jerry Zhao's [Google Scholar profile](https://scholar.google.com/citations?hl=en
 
 ### New York Institute of Technology ( 2019- )
 _Stress-induced epigenetic regulation of transcription in neocortical excitatory neurons drives depression-like behavior_<br>
-Deborah Y. Kwon, Peng Hu, Ying-Tao Zhao, Jonathan A. Beagan, Jonathan H. Nofziger, Yue Cui, Bing Xu, Daria Zaitseva, Jennifer E. Phillips-Cremins, Julie A. Blendy, Hao Wu, Zhaolan Zhou <br>
+Deborah Y. Kwon, Peng Hu, ***Ying-Tao Zhao***, Jonathan A. Beagan, Jonathan H. Nofziger, Yue Cui, Bing Xu, Daria Zaitseva, Jennifer E. Phillips-Cremins, Julie A. Blendy, Hao Wu, Zhaolan Zhou <br>
 ***bioRxiv***, 2020 ([bioRxiv](https://www.biorxiv.org/content/10.1101/2020.07.06.190280v1)) <br>
 <br>
 _Genomic architecture of Shh dependent cochlear morphogenesis_<br>
