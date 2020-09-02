@@ -6,7 +6,8 @@ permalink: /news/
 
 # News @ the Long Gene Lab<br>
   <br>
-    **08/17/2020:**  **Jacob Vazquez** joined the Long Gene Lab. **Welcome Jacob!** <br>
+  
+  **08/17/2020:**  **Jacob Vazquez** joined the Long Gene Lab. **Welcome Jacob!** <br>
   <br>
   
    **07/07/2020:**  The collaboration with the Zhou lab (my Postdoc mentor) at the University of Pennsylvania titled “**Stress-induced epigenetic regulation of transcription in neocortical excitatory neurons drives depression-like behavior**” is available in **bioRXiv** <a href="https://www.biorxiv.org/content/10.1101/2020.07.06.190280v1?rss=1">(bioRXiv)</a>.<br>
