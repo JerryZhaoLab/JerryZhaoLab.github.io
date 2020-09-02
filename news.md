@@ -7,7 +7,7 @@ permalink: /news/
 # News @ the Long Gene Lab<br>
   <br>
   
-   **07/07/2020:**  The collaboration with the Zhou lab (my Postdoc mentor) at the University of Pennsylvania titled “**Stress-induced epigenetic regulation of transcription in neocortical excitatory neurons drives depression-like behavior**” is available in **bioRXiv** <a href="https://www.biorxiv.org/content/10.1101/2020.07.06.190280v1?rss=1"</a>.<br>
+   **07/07/2020:**  The collaboration with the Zhou lab (my Postdoc mentor) at the University of Pennsylvania titled “**Stress-induced epigenetic regulation of transcription in neocortical excitatory neurons drives depression-like behavior**” is available in <a href="https://www.biorxiv.org/content/10.1101/2020.07.06.190280v1?rss=1">(bioRXiv)</a>.<br>
   <br>
   
   **06/28/2020:**  Our web database of **LongGeneDB** <a href="https://longgenedb.com">(longgenedb.com)</a> is up and running.  Thank you for your great work, **Yura and Mariam.** <br>
