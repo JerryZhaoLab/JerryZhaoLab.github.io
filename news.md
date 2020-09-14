@@ -7,10 +7,10 @@ permalink: /news/
 # News @ the Long Gene Lab<br>
   <br>
   
-   **09/11/2020:**  Our manuscript titled “**Primary sequence context defines recursive splicing in long genes**” is available in **bioRXiv** <a href="https://www.biorxiv.org/content/10.1101/2020.09.10.291914v2">(bioRXiv)</a>. **Congratulations, Jacob. ** <br>
+   **09/11/2020:**  Our manuscript titled “**Primary sequence context defines recursive splicing in long genes**” is available in **bioRXiv** <a href="https://www.biorxiv.org/content/10.1101/2020.09.10.291914v2">(bioRXiv)</a>. **Congratulations, Jacob.** <br>
   <br>
   
-   **09/11/2020:**  Our manuscript titled “**LongGeneDB: a data hub for long genes**” is available in **bioRXiv** <a href="https://www.biorxiv.org/content/10.1101/2020.09.08.281220v2">(bioRXiv)</a>. **Congratulations, Yura and Mariam. ** <br>
+   **09/11/2020:**  Our manuscript titled “**LongGeneDB: a data hub for long genes**” is available in **bioRXiv** <a href="https://www.biorxiv.org/content/10.1101/2020.09.08.281220v2">(bioRXiv)</a>. **Congratulations, Yura and Mariam.** <br>
   <br>
   
   **08/17/2020:**  **Jacob Vazquez** joined the Long Gene Lab. **Welcome Jacob!** <br>
