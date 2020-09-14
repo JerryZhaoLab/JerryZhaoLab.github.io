@@ -90,11 +90,11 @@ _Discovery of novel cell proliferation-enhancing gene by random siRNA library ba
 Xiahui Xiong, Yabin Lu, Lishu Zhang, Bo Wang, ***Yingtao Zhao***, Xiu-Jie Wang, Xiaofang Huo, Yan Shen, Zicai Liang, Meihong Chen<br>
 ***Comb Chem High Throughput Screen***, 2010 ([PubMed](https://www.ncbi.nlm.nih.gov/pubmed/20712584))
 
-2. _Conserved miRNAs analysis in Gossypium hirsutum through small RNAs sequencing_<br>
+_Conserved miRNAs analysis in Gossypium hirsutum through small RNAs sequencing_<br>
 Mengbin Ruan, ***Ying-Tao Zhao***, Zhaohong Meng, Xiu-Jie Wang and Weicai Yang<br>
 ***Genomics***, 2009 ([PubMed](https://www.ncbi.nlm.nih.gov/pubmed/19628031))
 
-1. _Complete sequence determination of a novel reptile iridovirus isolated from soft-shelled turtle and evolutionary analysis of Iridoviridae_<br>
+_Complete sequence determination of a novel reptile iridovirus isolated from soft-shelled turtle and evolutionary analysis of Iridoviridae_<br>
 Youhua Huang, Xiaohong Huang, Hong Liu, Jie Gong, Zhengliang Ouyang, Huachun Cui, Jianhao Cao, ***Yingtao Zhao***, Xiujie Wang, Yulin Jiang, and Qiwei Qin<br>
 ***BMC Genomics***, 2009 ([PubMed](https://www.ncbi.nlm.nih.gov/pubmed/19439104))
  <br>
