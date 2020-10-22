@@ -72,5 +72,11 @@ Mansi Patel is in her first year of the BS/DO program at NYIT. She is from New J
 <br>
 
 
- <h3>Alumni</h3>
+ <h3>Alumni</h3> <br>
  
+ <img width="300" src="/img/Austin.png" data-action="zoom">
+ <br>
+Austin Meadows<br>
+Research Technician<br>
+
+
