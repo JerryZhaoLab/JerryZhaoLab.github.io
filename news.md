@@ -7,6 +7,12 @@ permalink: /news/
 # News @ the Long Gene Lab<br>
   <br>
   
+   **10/01/2020:**  **Brian** presented at the American Physician Scientists Association (APSA) Symposium. **Congratulations, Brian.** <br>
+  <br>
+  
+   **09/22/2020:**  **Sohyun Moon** joined the Long Gene Lab. **Welcome Sohyun!** <br>
+  <br>
+  
    **09/11/2020:**  Our manuscript titled “**Primary sequence context defines recursive splicing in long genes**” is available in **bioRXiv** <a href="https://www.biorxiv.org/content/10.1101/2020.09.10.291914v2">(bioRXiv)</a>. **Congratulations, Jacob.** <br>
   <br>
   
