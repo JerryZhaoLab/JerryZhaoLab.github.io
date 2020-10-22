@@ -23,7 +23,7 @@ Jerry was an undergraduate at Nanjing University, where he worked on models of e
 
 
  <h3>Research Scientist</h3>
- <img width="300" src="/img/Jacob.png" data-action="zoom">
+ <img width="300" src="/img/Jacob.jpg" data-action="zoom">
  <br>
 Jacob Vazquez<br>
 Research Technician<br>
