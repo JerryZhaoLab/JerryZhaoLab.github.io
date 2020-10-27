@@ -18,8 +18,9 @@ yzhao47@nyit.edu<br>
  <br>
 
 
-Jerry was an undergraduate at Nanjing University, where he worked on models of economic growth. He was inspired by the Human Genome Project and moved to Beijing in 2005 to pursue his PhD in Bioinformatics at the Chinese Academy of Sciences. There, he worked with Dr. Xiu-Jie Wang developing computational methods to characterize non-coding RNAs. In September 2011, Jerry joined Joe Zhou's lab at the University of Pennsylvania, where he investigated the role of epigenetic mechanisms in the etiology of Rett syndrome and Autism Spectrum Disorder. Jerry started his independent career as an Assistant Professor in the Department of Biomedical Sciences at NYIT in July 2019. 
+Jerry was an undergraduate at Nanjing University, where he worked on models of economic growth. He was inspired by the Human Genome Project and moved to Beijing in 2005 to pursue his PhD in Bioinformatics at the Chinese Academy of Sciences. There, he worked with Dr. Xiu-Jie Wang developing computational methods to characterize non-coding RNAs. In September 2011, Jerry joined Joe Zhou's lab at the University of Pennsylvania, where he investigated the role of epigenetic mechanisms in the etiology of Rett syndrome and Autism Spectrum Disorder. Jerry started his independent career as an Assistant Professor in the Department of Biomedical Sciences at NYIT in July 2019. <br>
 
+  <br>
 
 
  <h3>Research Scientist</h3>
@@ -35,7 +36,7 @@ jvazqu09@nyit.edu<br>
 
 Jacob is a research technician in the Long Gene Lab. Jacob got his master’s degree in bioinformatics from the University of Maryland Global Campus (UMGC). He is interested in the role of chromatin organization in gene transcription by analyzing Hi-C and Micro-C data. He is also interested in cancer genomics and the splicing of long genes. Jacob is a fan of New York Giants. <br>
 
-
+ <br>
 
  
  <h3>Medical School Student </h3>
@@ -68,9 +69,9 @@ Mariam is in her third year of the seven-year combined Bachelor of Science and D
   <br>
 Mansi Patel<br>
 
-Mansi Patel is in her first year of the BS/DO program at NYIT. She is from New Jersey. She likes to play tennis and goes to the beach in her free time. Mansi is interested in learning more about genomics. She looks forward to gaining more research experience.
-<br>
+Mansi Patel is in her first year of the BS/DO program at NYIT. She is from New Jersey. She likes to play tennis and goes to the beach in her free time. Mansi is interested in learning more about genomics. She looks forward to gaining more research experience.<br>
 
+ <br>
 
  <h3>Alumni</h3> <br>
  
