@@ -8,7 +8,7 @@ permalink: /members/
 
 <img width="300" src="/img/Jerry01_400.png" data-action="zoom">
  <br>
-Jerry Ying-Tao Zhao<br>
+Jerry Yingtao Zhao<br>
 Assistant Professor<br>
 yzhao47@nyit.edu<br>
   <br>
@@ -30,7 +30,7 @@ Research Technician<br>
 jvazqu09@nyit.edu<br>
   <br>
   B.A., Journalsim, Purchase College, SUNY (2017)<br>
-  M.S., Bioinformatics, University of Maryland University College (2019)<br>
+  M.S., Bioinformatics, University of Maryland University College (2020)<br>
  <br> 
 
 Jacob is a research technician in the Long Gene Lab. Jacob got his master’s degree in bioinformatics from the University of Maryland Global Campus (UMGC). He is interested in the role of chromatin organization in gene transcription by analyzing Hi-C and Micro-C data. He is also interested in cancer genomics and the splicing of long genes. Jacob is a fan of New York Giants. <br>
