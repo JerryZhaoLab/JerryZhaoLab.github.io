@@ -23,13 +23,26 @@ Jerry was an undergraduate at Nanjing University, where he worked on models of e
 
 
 <h3>Research Scientist</h3>
+<img width="300" src="/img/Sohyun.png" data-action="zoom"><br>
+Sohyun Moon<br>
+Postdoctoral Fellow<br>
+smoon01@nyit.edu<br>
+  <br>
+  BS, Daegu Hanni University, South Korea (2011)<br>
+  PhD, Konkuk University, Seoul, South Korea (2016)<br>
+<br> 
+
+Sohyun got her PhD in molecular biotechnology from Konkuk University, South Korea. After graduation, she worked as a research professor at the Dongguk University and as a postdoc at the Korea Research Institute of Bioscience and Biotechnology (KRIBB). Before joining NYIT, Sohyun was a postdoc at the SUNY downstate medical center studying ECM proteins, angiogenesis, and neovascular diseases. In the Long Gene Lab, Sohyun is interested in integrating mouse genetics, genomics, and bioinformatics approaches to study the role of long genes in the brain. <br>
+
+ <br>
+ <br>
 <img width="300" src="/img/Jacob.jpg" data-action="zoom"><br>
 Jacob Vazquez<br>
 Research Technician<br>
 jvazqu09@nyit.edu<br>
   <br>
-  B.A., Journalsim, Purchase College, SUNY (2017)<br>
-  M.S., Bioinformatics, University of Maryland University College (2020)<br>
+  BA, Journalsim, Purchase College, SUNY (2017)<br>
+  MS, Bioinformatics, University of Maryland University College (2020)<br>
 <br> 
 
 Jacob is a research technician in the Long Gene Lab. Jacob got his master’s degree in bioinformatics from the University of Maryland Global Campus (UMGC). He is interested in the role of chromatin organization in gene transcription by analyzing Hi-C and Micro-C data. He is also interested in cancer genomics and the splicing of long genes. Jacob is a fan of New York Giants. <br>
