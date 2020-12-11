@@ -2,10 +2,6 @@
 layout: page
 title: Research 
 ---
-
-# The research focus of the Long Gene Lab, by name, is long genes.
- <br>
- <br>
  
 ## 1. Understand the transcription and co-transcriptional processing of long genes.<br>
 Protein-coding genes vary in gene lengths, ranging from 0.1 kilobases (kb) to 2400 kb1. The human genome contains more than 4000 genes longer than 100 kb, which are implicated in various human diseases, including amyotrophic lateral sclerosis, autism spectrum disorder, Alzheimer's disease, and cancer. Gene lengths affect transcription because gene transcription relies on RNA polymerase II (Pol II) moving across the entire gene region. Gene lengths also affect co-transcriptional processes, such as intron splicing, because a long intron represents a larger RNA molecule to be removed from mRNA precursors than a short intron does. Our research focuses on the following questions: <br>
