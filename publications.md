@@ -11,15 +11,15 @@ Jerry Zhao's [Google Scholar profile](https://scholar.google.com/citations?hl=en
 ### New York Institute of Technology ( 2019- )
 _LongGeneDB: a data hub for long genes_<br>
 Yura Kim, Mariam Naghavi, ***Ying-Tao Zhao***<br>
-***bioRxiv***, 2020 ([bioRxiv](https://www.biorxiv.org/content/10.1101/2020.09.08.281220v2)) <br>
+***bioRxiv***, 2020 ([bioRxiv](https://doi.org/10.1101/2020.09.08.281220)) <br>
 <br>
-_Primary sequence context defines recursive splicing in long genes_<br>
-Jacob Vazquez, ***Ying-Tao Zhao***<br>
-***bioRxiv***, 2020 ([bioRxiv](https://www.biorxiv.org/content/10.1101/2020.09.10.291914v2)) <br>
+_Nuclear total RNA sequencing reveals primary sequence context of recursive splicing in long genes_<br>
+Sohyun Moon, Jacob Vazquez, ***Ying-Tao Zhao***<br>
+***bioRxiv***, 2020 ([bioRxiv](https://doi.org/10.1101/2020.09.10.291914)) <br>
 <br>
 _Stress-induced epigenetic regulation of transcription in neocortical excitatory neurons drives depression-like behavior_<br>
 Deborah Y. Kwon, Peng Hu, ***Ying-Tao Zhao***, Jonathan A. Beagan, Jonathan H. Nofziger, Yue Cui, Bing Xu, Daria Zaitseva, Jennifer E. Phillips-Cremins, Julie A. Blendy, Hao Wu, Zhaolan Zhou <br>
-***bioRxiv***, 2020 ([bioRxiv](https://www.biorxiv.org/content/10.1101/2020.07.06.190280v1)) <br>
+***bioRxiv***, 2020 ([bioRxiv](https://doi.org/10.1101/2020.07.06.190280)) <br>
 <br>
 _Genomic architecture of Shh dependent cochlear morphogenesis_<br>
 Victor Muthu, Alex. M. Rohacek, Yao Yao, Staci M. Rakowiecki, Alexander S. Brown, ***Ying-Tao Zhao***, James Meyers, Kyoung-Jae Won, Shweta Ramdas, Christopher D. Brown, Kevin A. Peterson, Douglas J. Epstein<br>
