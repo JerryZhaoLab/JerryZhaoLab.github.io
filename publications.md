@@ -21,6 +21,11 @@ _Stress-induced epigenetic regulation of transcription in neocortical excitatory
 Deborah Y. Kwon, Peng Hu, ***Ying-Tao Zhao***, Jonathan A. Beagan, Jonathan H. Nofziger, Yue Cui, Bing Xu, Daria Zaitseva, Jennifer E. Phillips-Cremins, Julie A. Blendy, Hao Wu, Zhaolan Zhou <br>
 ***bioRxiv***, 2020 ([bioRxiv](https://doi.org/10.1101/2020.07.06.190280)) <br>
 <br>
+<br>
+_Spatial, temporal, and cell-type-specific expression profiles of genes encoding heparan sulfate biosynthesis enzymes and proteoglycan core proteins_<br>
+Sohyun Moon, ***Ying-Tao Zhao***<br>
+***Glycobiology***, 2021 ([link](https://doi.org/10.1093/glycob/cwab054)) <br>
+<br>
 _Genomic architecture of Shh dependent cochlear morphogenesis_<br>
 Victor Muthu, Alex. M. Rohacek, Yao Yao, Staci M. Rakowiecki, Alexander S. Brown, ***Ying-Tao Zhao***, James Meyers, Kyoung-Jae Won, Shweta Ramdas, Christopher D. Brown, Kevin A. Peterson, Douglas J. Epstein<br>
 ***Development***, 2019 ([PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=31488567)) <br>
