@@ -7,7 +7,7 @@ permalink: /news/
 # News @ the Long Gene Lab<br>
   <br>
   
-  **06/14/2021:**  Our paper titled “**Spatial, temporal, and cell-type-specific expression profiles of genes encoding heparan sulfate biosynthesis enzymes and proteoglycan core proteins**” is published today in **Glycobiology** <a href="https://doi.org/10.1093/glycob/cwab054">(Glycobiology)</a>. **Congratulations, Sohyun.**<br>
+  **06/14/2021:**  Our paper titled “**Spatial, temporal, and cell-type-specific expression profiles of genes encoding heparan sulfate biosynthesis enzymes and proteoglycan core proteins**” is published today in **Glycobiology** <a href="https://doi.org/10.1093/glycob/cwab054">(link)</a>. **Congratulations, Sohyun.**<br>
   <br>
  
    **10/01/2020:**  **Brian** presented at the American Physician Scientists Association (APSA) Symposium. **Congratulations, Brian.** <br>
