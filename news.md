@@ -6,20 +6,19 @@ permalink: /news/
 
 # News @ the Long Gene Lab<br>
   <br>
-  
+  **06/14/2021:**  Our paper titled “**Spatial, temporal, and cell-type-specific expression profiles of genes encoding heparan sulfate biosynthesis enzymes and proteoglycan core proteins**” is published today in **Glycobiology** <a href="https://doi.org/10.1093/glycob/cwab054">(Glycobiology)</a>. **Congratulations, Sohyun.**<br>
+  <br>
+ 
    **10/01/2020:**  **Brian** presented at the American Physician Scientists Association (APSA) Symposium. **Congratulations, Brian.** <br>
   <br>
   
    **09/22/2020:**  **Sohyun Moon** joined the Long Gene Lab. **Welcome Sohyun!** <br>
   <br>
   
-   **09/11/2020:**  Our manuscript titled “**Primary sequence context defines recursive splicing in long genes**” is available in **bioRXiv** <a href="https://doi.org/10.1101/2020.09.10.291914">(bioRXiv)</a>. **Congratulations, Jacob.** <br>
+   **09/11/2020:**  Our manuscript titled “**Primary sequence context defines recursive splicing in long genes**” is available in **bioRXiv** <a href="https://doi.org/10.1101/2020.09.10.291914">(bioRXiv)</a>. <br>
   <br>
   
    **09/11/2020:**  Our manuscript titled “**LongGeneDB: a data hub for long genes**” is available in **bioRXiv** <a href="https://doi.org/10.1101/2020.09.08.281220">(bioRXiv)</a>. **Congratulations, Yura and Mariam.** <br>
-  <br>
-  
-  **08/17/2020:**  **Jacob Vazquez** joined the Long Gene Lab. **Welcome Jacob!** <br>
   <br>
   
    **07/07/2020:**  The collaboration with the Zhou lab (my Postdoc mentor) at the University of Pennsylvania titled “**Stress-induced epigenetic regulation of transcription in neocortical excitatory neurons drives depression-like behavior**” is available in **bioRXiv** <a href="https://www.biorxiv.org/content/10.1101/2020.07.06.190280v1?rss=1">(bioRXiv)</a>.<br>
