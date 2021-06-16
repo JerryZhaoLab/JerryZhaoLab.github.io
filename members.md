@@ -36,18 +36,10 @@ Sohyun got her PhD in molecular biotechnology from Konkuk University, South Kore
 
  <br>
  <br>
-<img width="300" src="/img/Jacob.jpg" data-action="zoom"><br>
-Jacob Vazquez<br>
+
+Samantha (Sam) Mota <br>
 Research Technician<br>
-jvazqu09@nyit.edu<br>
-  <br>
-  BA, Journalsim, Purchase College, SUNY (2017)<br>
-  MS, Bioinformatics, University of Maryland University College (2020)<br>
-<br> 
 
-Jacob is a research technician in the Long Gene Lab. Jacob got his master’s degree in bioinformatics from the University of Maryland Global Campus (UMGC). He is interested in the role of chromatin organization in gene transcription by analyzing Hi-C and Micro-C data. He is also interested in cancer genomics and the splicing of long genes. Jacob is a fan of New York Giants. <br>
-
- <br>
 
  
 <h3>Medical School Student </h3>
@@ -61,7 +53,7 @@ Brian Tang<br>
 Brian is a graduate of Baruch College (CUNY) and was part of the CUNY Baccalaureate for Unique and Interdisciplinary Studies with concentrations in Biochemistry and Behavioral Neuroscience. He previously worked in a Drosophila lab in which he utilized bioinformatics and wet lab techniques to study genetic influences on the proliferation of crystal cells that are involved in fly immunity. He wrote his undergraduate honors thesis titled “Genetic Basis of Larval Crystal Cell Quantity Variation in the Drosophila Genetic Reference Panel (DGRP).” In the Long Gene Lab, Brian is interested in learning more about integrating bioinformatics and medicine to study genetic related disorders, that can lead to providing patients with more personalized medicine. When he is not studying, he enjoys cooking foods of different cultures and watching anime during his spare time.<br>
  <br>
 
-<h3>Undergraduate Student </h3>
+
 <img width="300" src="/img/Yura.JPG" data-action="zoom"><br>
 Yura Kim<br>
 
@@ -74,6 +66,8 @@ Mariam Naghavi<br>
 Mariam is in her third year of the seven-year combined Bachelor of Science and Doctor of Osteopathic Medicine studies at NYIT / NYIT College of Osteopathic Medicine in Old Westbury. She hopes to complete her undergraduate studies in the Spring of 2020 and matriculate into the medical school portion of her program this Fall. She has been exposed to a wide variety of courses during her undergraduate studies, ranging from pharmacology to comparative anatomy. In her free time, she enjoys getting involved with the community, watching cooking shows, and snuggling with her dogs. Mariam is eager to collaborate and looks forward to learning more about biomedical research. <br>
 
  <br>
+ 
+<h3>Undergraduate Student </h3>
 <img width="300" src="/img/Mansi.jpeg" data-action="zoom"><br>
 Mansi Patel<br>
 
