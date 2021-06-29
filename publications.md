@@ -14,7 +14,7 @@ Yura Kim, Mariam Naghavi, ***Ying-Tao Zhao***<br>
 ***bioRxiv***, 2020 ([bioRxiv](https://doi.org/10.1101/2020.09.08.281220)) <br>
 <br>
 _Nuclear total RNA sequencing reveals primary sequence context of recursive splicing in long genes_<br>
-Sohyun Moon, Jacob Vazquez, ***Ying-Tao Zhao***<br>
+Sohyun Moon, ***Ying-Tao Zhao***<br>
 ***bioRxiv***, 2020 ([bioRxiv](https://doi.org/10.1101/2020.09.10.291914)) <br>
 <br>
 _Stress-induced epigenetic regulation of transcription in neocortical excitatory neurons drives depression-like behavior_<br>
