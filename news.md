@@ -7,7 +7,10 @@ permalink: /news/
 # News @ the Long Gene Lab<br>
   <br>
  
-  **06/28/2020:**  **Sam Mota** joined the Long Gene Lab. **Welcome Sam!** <br>
+   **09/23/2021:**  **Ali Mian** joined the Long Gene Lab. **Welcome Ali!** <br>
+  <br>
+  
+  **06/28/2021:**  **Sam Mota** joined the Long Gene Lab. **Welcome Sam!** <br>
   <br>
   
   **06/14/2021:**  Our paper titled “**Spatial, temporal, and cell-type-specific expression profiles of genes encoding heparan sulfate biosynthesis enzymes and proteoglycan core proteins**” is published today in **Glycobiology** <a href="https://doi.org/10.1093/glycob/cwab054">(link)</a>. **Congratulations, Sohyun.**<br>
