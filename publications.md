@@ -99,7 +99,7 @@ _02 Conserved miRNAs analysis in Gossypium hirsutum through small RNAs sequencin
 Mengbin Ruan, ***Ying-Tao Zhao***, Zhaohong Meng, Xiu-Jie Wang and Weicai Yang<br>
 ***Genomics***, 2009 ([PubMed](https://www.ncbi.nlm.nih.gov/pubmed/19628031))
 
-***01*** _Complete sequence determination of a novel reptile iridovirus isolated from soft-shelled turtle and evolutionary analysis of Iridoviridae_<br>
+***01\**** _Complete sequence determination of a novel reptile iridovirus isolated from soft-shelled turtle and evolutionary analysis of Iridoviridae_<br>
 Youhua Huang, Xiaohong Huang, Hong Liu, Jie Gong, Zhengliang Ouyang, Huachun Cui, Jianhao Cao, ***Yingtao Zhao***, Xiujie Wang, Yulin Jiang, and Qiwei Qin<br>
 ***BMC Genomics***, 2009 ([PubMed](https://www.ncbi.nlm.nih.gov/pubmed/19439104))
  <br>
