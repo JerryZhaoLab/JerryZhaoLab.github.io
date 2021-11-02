@@ -40,6 +40,7 @@ Sohyun got her PhD in molecular biotechnology from Konkuk University, South Kore
 <img width="300" src="/img/Sam.png" data-action="zoom"><br>
 Samantha (Sam) Mota <br>
 Research Technician<br>
+smota02@nyit.edu<br>
 <br> 
 
 Sam got her Bachelors of Science at Farmingdale State College. Following her graduation, she began working at NYU Long Island School of Medicine as a research technician and assisted in the research of circadian rhythm and its interaction with atherosclerosis in mice. Sam is interested in genetics and is excited to be a part of the discoveries being made in Dr. Zhao’s lab. In her free time she enjoys cooking and watching true-crime documentaries as well as playing with her two new kittens she recently welcomed to her family. <br>
@@ -72,6 +73,14 @@ Mariam Naghavi<br>
 Mariam is in her third year of the seven-year combined Bachelor of Science and Doctor of Osteopathic Medicine studies at NYIT / NYIT College of Osteopathic Medicine in Old Westbury. She hopes to complete her undergraduate studies in the Spring of 2020 and matriculate into the medical school portion of her program this Fall. She has been exposed to a wide variety of courses during her undergraduate studies, ranging from pharmacology to comparative anatomy. In her free time, she enjoys getting involved with the community, watching cooking shows, and snuggling with her dogs. Mariam is eager to collaborate and looks forward to learning more about biomedical research. <br>
 
  <br>
+ 
+ <h3>Graduate Student </h3>
+<img width="300" src="/img/Ali.jpg" data-action="zoom"><br>
+Ali Mian<br>
+
+Ali completed his undergraduate degree at St. John’s University in Queens. There he majored in Biology and minored in Chemistry. He is currently in his first year of the 5 year MS/DO bridge program at NYIT and hopes to matriculate into NYITCOM in the Fall of 2022. Ali has done research in the field of Ecology at St. John’s and assisted on a case report on Takayasu Arteritis at Nassau University Medical Center. Ali is interested in learning more about genetics and genetic related disorders. In his free time he likes to play basketball and watch the latest shows on Netflix.<br>
+ <br>
+ 
  
 <h3>Undergraduate Student </h3>
 <img width="300" src="/img/Mansi.jpeg" data-action="zoom"><br>
