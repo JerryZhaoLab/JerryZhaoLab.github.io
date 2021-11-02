@@ -22,11 +22,11 @@ Deborah Y. Kwon, Peng Hu, ***Ying-Tao Zhao***, Jonathan A. Beagan, Jonathan H. N
 ***bioRxiv***, 2020 ([bioRxiv](https://doi.org/10.1101/2020.07.06.190280)) <br>
 <br>
 <br>
-_Spatial, temporal, and cell-type-specific expression profiles of genes encoding heparan sulfate biosynthesis enzymes and proteoglycan core proteins_<br>
+***18.*** _Spatial, temporal, and cell-type-specific expression profiles of genes encoding heparan sulfate biosynthesis enzymes and proteoglycan core proteins_<br>
 Sohyun Moon, ***Ying-Tao Zhao***<br>
 ***Glycobiology***, 2021 ([link](https://doi.org/10.1093/glycob/cwab054)) <br>
 <br>
-_Genomic architecture of Shh dependent cochlear morphogenesis_<br>
+***17.*** _Genomic architecture of Shh dependent cochlear morphogenesis_<br>
 Victor Muthu, Alex. M. Rohacek, Yao Yao, Staci M. Rakowiecki, Alexander S. Brown, ***Ying-Tao Zhao***, James Meyers, Kyoung-Jae Won, Shweta Ramdas, Christopher D. Brown, Kevin A. Peterson, Douglas J. Epstein<br>
 ***Development***, 2019 ([PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=31488567)) <br>
  <br>
@@ -34,27 +34,27 @@ Victor Muthu, Alex. M. Rohacek, Yao Yao, Staci M. Rakowiecki, Alexander S. Brown
  <br>
  
 ### University of Pennsylvania 
-_Long genes linked to autism spectrum disorders harbor broad enhancer-like chromatin domains_<br>
+***16.*** _Long genes linked to autism spectrum disorders harbor broad enhancer-like chromatin domains_<br>
 ***Ying-Tao Zhao***, Deborah Y Kwon, Brian S Johnson, Maria Fasolino, Janine M Lamonica, Yoon Jung Kim, Boxuan Simen Zhao, Chuan He, Golnaz Vahedi, Tae Hoon Kim, Zhaolan Zhou<br>
 ***Genome research***, 2018 ([PubMed](https://www.ncbi.nlm.nih.gov/pubmed/29848492)) <br>
 
-_Biotin tagging of MeCP2 in mice reveals contextual insights into the Rett syndrome transcriptome_<br>
+***15.*** _Biotin tagging of MeCP2 in mice reveals contextual insights into the Rett syndrome transcriptome_<br>
 Brian S Johnson\*, ***Ying-Tao Zhao\****, Maria Fasolino\*, Janine M Lamonica, Yoon Jung Kim, George Georgakilas, Kathleen H Wood, Daniel Bu, Yue Cui, Darren Goffin, Golnaz Vahedi, Tae Hoon Kim, Zhaolan Zhou<br>
 ***Nature Medicine***, 2017 ([PubMed](https://www.ncbi.nlm.nih.gov/pubmed/28920956))
 
-_Locus-specific histone deacetylation using a synthetic CRISPR-Cas9-based HDAC_<br>
+***14.*** _Locus-specific histone deacetylation using a synthetic CRISPR-Cas9-based HDAC_<br>
 Deborah Y. Kwon, ***Ying-Tao Zhao***, Janine M. Lamonica,  Zhaolan Zhou<br>
 ***Nature Communications***, 2017 ([PubMed](https://www.ncbi.nlm.nih.gov/pubmed/28497787)) <br>
 
-_Locus- and cell type-specific epigenetic switching during cellular differentiation in mammals_<br>
+***13.*** _Locus- and cell type-specific epigenetic switching during cellular differentiation in mammals_<br>
 ***Ying-Tao Zhao***, Maria Fasolino,  Zhaolan Zhou<br>
 ***Frontiers in Biology***, 2016 ([PubMed](https://www.ncbi.nlm.nih.gov/pubmed/28261266))
 
-_Cis-regulatory architecture of a brain signaling center predates the origin of chordates_<br>
+***12.*** _Cis-regulatory architecture of a brain signaling center predates the origin of chordates_<br>
 Yao Yao, Paul J Minor\*, ***Ying-Tao Zhao\****, Yongsu Jeong, Ariel M Pani, Anna N King, Orsolya Symmons, Lin Gan, Wellington V Cardoso, François Spitz, Christopher J Lowe, Douglas J Epstein<br>
 ***Nature Genetics***, 2016 ([PubMed](https://www.ncbi.nlm.nih.gov/pubmed/27064252))  <br>
 
-_Loss of MeCP2 function is associated with distinct gene expression changes in the striatum_<br>
+***11.*** _Loss of MeCP2 function is associated with distinct gene expression changes in the striatum_<br>
 ***Ying-Tao Zhao\****, Darren Goffin\*, Brian S. Johnson\*, Zhaolan Zhou<br> 
 ***Neurobiology of Disease***, 2013 ([PubMed](https://www.ncbi.nlm.nih.gov/pubmed/23948639))<br>
  <br>
