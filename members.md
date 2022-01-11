@@ -32,7 +32,7 @@ smoon01@nyit.edu<br>
   PhD, Konkuk University, Seoul, South Korea (2016)<br>
 <br> 
 
-Sohyun got her PhD in molecular biotechnology from Konkuk University, South Korea. After graduation, she worked as a research professor at the Dongguk University and as a postdoc at the Korea Research Institute of Bioscience and Biotechnology (KRIBB). Before joining NYIT, Sohyun was a postdoc at the SUNY downstate medical center studying ECM proteins, angiogenesis, and neovascular diseases. In the Long Gene Lab, Sohyun is interested in integrating mouse genetics, genomics, and bioinformatics approaches to study the role of long genes in the brain. <br>
+Sohyun got her PhD in molecular biotechnology from Konkuk University, South Korea. After graduation, she worked as a research professor at the Dongguk University and as a postdoc at the Korea Research Institute of Bioscience and Biotechnology (KRIBB). Before joining NYIT, Sohyun was a postdoc at the SUNY downstate medical center studying ECM proteins, angiogenesis, and neovascular diseases. In the Jerry Zhao Lab, Sohyun is interested in integrating mouse genetics, genomics, and bioinformatics approaches to study the role of long genes in the brain. <br>
 
  <br>
  <br>
@@ -52,7 +52,7 @@ Sam got her Bachelors of Science at Farmingdale State College. Following her gra
 <h3>Medical School Student </h3>
 Matan Kadosh<br>
 
-Matan was born and raised in Dallas, Tx, attended the University of Missouri, and currently lives in the heart of New York City. He is curious about the associations between genetics and disease and hopes to incorporate life-long learning throughout his career. He previously studied different mouse models of ALS at both the University of Missouri and Columbia University. Matan is an avid reader and enjoys spending time with friends and family. He is very excited to be discovering and learning in the Long Gene Lab.<br>
+Matan was born and raised in Dallas, Tx, attended the University of Missouri, and currently lives in the heart of New York City. He is curious about the associations between genetics and disease and hopes to incorporate life-long learning throughout his career. He previously studied different mouse models of ALS at both the University of Missouri and Columbia University. Matan is an avid reader and enjoys spending time with friends and family. He is very excited to be discovering and learning in the Jerry Zhao Lab.<br>
 
 
 Brian Tang<br>
