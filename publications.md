@@ -17,10 +17,10 @@ _Nuclear total RNA sequencing reveals primary sequence context of recursive spli
 Sohyun Moon, ***Ying-Tao Zhao***<br>
 ***bioRxiv***, 2020 ([bioRxiv](https://doi.org/10.1101/2020.09.10.291914)) <br>
 <br>
-_Stress-induced epigenetic regulation of transcription in neocortical excitatory neurons drives depression-like behavior_<br>
-Deborah Y. Kwon, Peng Hu, ***Ying-Tao Zhao***, Jonathan A. Beagan, Jonathan H. Nofziger, Yue Cui, Bing Xu, Daria Zaitseva, Jennifer E. Phillips-Cremins, Julie A. Blendy, Hao Wu, Zhaolan Zhou <br>
-***bioRxiv***, 2020 ([bioRxiv](https://doi.org/10.1101/2020.07.06.190280)) <br>
 <br>
+_Neuronal Yin Yang1 in the prefrontal cortex regulates transcriptional and behavioral responses to chronic stress in mice_<br>
+Deborah Y. Kwon, Bing Xu, Peng Hu, ***Ying-Tao Zhao***, Jonathan A. Beagan, Jonathan H. Nofziger, Yue Cui, Jennifer E. Phillips-Cremins, Julie A. Blendy, Hao Wu & Zhaolan Zhou <br>
+***Nature Communications***, 2022 ([link](https://www.nature.com/articles/s41467-021-27571-3)) <br>
 <br>
 ***18.*** _Spatial, temporal, and cell-type-specific expression profiles of genes encoding heparan sulfate biosynthesis enzymes and proteoglycan core proteins_<br>
 Sohyun Moon, ***Ying-Tao Zhao***<br>
