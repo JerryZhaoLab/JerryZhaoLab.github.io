@@ -3,7 +3,7 @@ title: Contact
 permalink: /contact/
 --- 
 
-# Contact the Long Gene Lab<br>
+# Contact the Jerry Zhao Lab<br>
  <br>
  
 **Jerry Zhao**<br>
