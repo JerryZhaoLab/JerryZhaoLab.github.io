@@ -7,13 +7,13 @@ permalink: /news/
 # News @ the Jerry Zhao Lab<br>
   <br>
   
-   **01/10/2022:**  The collaboration with the Joe Zhou lab at the University of Pennsylvania titled “**Neuronal Yin Yang1 in the prefrontal cortex regulates transcriptional and behavioral responses to chronic stress in mice**” published today in **Nature Communications** <a href="https://www.nature.com/articles/s41467-021-27571-3">(link)</a>.<br>
+   **01/10/2022:**  The collaboration with the Joe Zhou lab at the University of Pennsylvania titled “**Neuronal Yin Yang1 in the prefrontal cortex regulates transcriptional and behavioral responses to chronic stress in mice**” is published today in **Nature Communications** <a href="https://www.nature.com/articles/s41467-021-27571-3">(link)</a>.<br>
   <br>
   
-   **09/23/2021:**  **Ali Mian** joined the Long Gene Lab. **Welcome Ali!** <br>
+   **09/23/2021:**  **Ali Mian** joined the Jerry Zhao Lab. **Welcome Ali!** <br>
   <br>
   
-  **06/28/2021:**  **Sam Mota** joined the Long Gene Lab. **Welcome Sam!** <br>
+  **06/28/2021:**  **Sam Mota** joined the Jerry Zhao Lab. **Welcome Sam!** <br>
   <br>
   
   **06/14/2021:**  Our paper titled “**Spatial, temporal, and cell-type-specific expression profiles of genes encoding heparan sulfate biosynthesis enzymes and proteoglycan core proteins**” is published today in **Glycobiology** <a href="https://doi.org/10.1093/glycob/cwab054">(link)</a>. **Congratulations, Sohyun.**<br>
@@ -22,7 +22,7 @@ permalink: /news/
    **10/01/2020:**  **Brian** presented at the American Physician Scientists Association (APSA) Symposium. **Congratulations, Brian.** <br>
   <br>
   
-   **09/22/2020:**  **Sohyun Moon** joined the Long Gene Lab. **Welcome Sohyun!** <br>
+   **09/22/2020:**  **Sohyun Moon** joined the Jerry Zhao Lab. **Welcome Sohyun!** <br>
   <br>
   
    **09/11/2020:**  Our manuscript titled “**Primary sequence context defines recursive splicing in long genes**” is available in **bioRXiv** <a href="https://doi.org/10.1101/2020.09.10.291914">(bioRXiv)</a>. <br>
@@ -40,19 +40,19 @@ permalink: /news/
   **04/14/2020:**  **Brian and Matan** have been awarded the Summer 2020 NYITCOM Student Research Fellowship. **Congratulations!** <br>
   <br>
   
-  **03/03/2020:**  **Brian Tang** joined the Long Gene Lab. **Welcome Brian!** <br>
+  **03/03/2020:**  **Brian Tang** joined the Jerry Zhao Lab. **Welcome Brian!** <br>
   <br>
   
-  **03/03/2020:**  **Mansi Patel** joined the Long Gene Lab. **Welcome Mansi!** <br>
+  **03/03/2020:**  **Mansi Patel** joined the Jerry Zhao Lab. **Welcome Mansi!** <br>
   <br>
   
-  **02/25/2020:**  **Yura Kim and Mariam Naghavi** joined the Long Gene Lab. **Welcome Yura and Mariam!** <br>
+  **02/25/2020:**  **Yura Kim and Mariam Naghavi** joined the Jerry Zhao Lab. **Welcome Yura and Mariam!** <br>
   <br>
   
-  **02/25/2020:**  **Matan Kadosh** joined the Long Gene Lab. **Welcome Matan!** <br>
+  **02/25/2020:**  **Matan Kadosh** joined the Jerry Zhao Lab. **Welcome Matan!** <br>
   <br>
   
-  **02/03/2020:**  **Austin Meadows** joined the Long Gene Lab. **Welcome Austin!** <br>
+  **02/03/2020:**  **Austin Meadows** joined the Jerry Zhao Lab. **Welcome Austin!** <br>
   <br>
   
  **01/17/2020:**  Get my teaching evaluation from students: "**Dr. Jerry Zhao is a great facilitator.**". 😀 ≧◡≦ <br>
