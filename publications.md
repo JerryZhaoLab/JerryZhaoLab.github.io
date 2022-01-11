@@ -18,7 +18,7 @@ Sohyun Moon, ***Ying-Tao Zhao***<br>
 ***bioRxiv***, 2020 ([bioRxiv](https://doi.org/10.1101/2020.09.10.291914)) <br>
 <br>
 <br>
-_Neuronal Yin Yang1 in the prefrontal cortex regulates transcriptional and behavioral responses to chronic stress in mice_<br>
+***19.*** _Neuronal Yin Yang1 in the prefrontal cortex regulates transcriptional and behavioral responses to chronic stress in mice_<br>
 Deborah Y. Kwon, Bing Xu, Peng Hu, ***Ying-Tao Zhao***, Jonathan A. Beagan, Jonathan H. Nofziger, Yue Cui, Jennifer E. Phillips-Cremins, Julie A. Blendy, Hao Wu & Zhaolan Zhou <br>
 ***Nature Communications***, 2022 ([link](https://www.nature.com/articles/s41467-021-27571-3)) <br>
 <br>
