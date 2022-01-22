@@ -13,10 +13,10 @@ _LongGeneDB: a data hub for long genes_<br>
 Yura Kim, Mariam Naghavi, ***Ying-Tao Zhao***<br>
 ***bioRxiv***, 2020 ([bioRxiv](https://doi.org/10.1101/2020.09.08.281220)) <br>
 <br>
-_Nuclear total RNA sequencing reveals primary sequence context of recursive splicing in long genes_<br>
-Sohyun Moon, ***Ying-Tao Zhao***<br>
-***bioRxiv***, 2020 ([bioRxiv](https://doi.org/10.1101/2020.09.10.291914)) <br>
 <br>
+***20.*** _Recursive splicing is a rare event in the mouse brain_<br>
+Sohyun Moon, ***Ying-Tao Zhao***<br>
+***PLOS ONE (accepted)***, 2022 <br>
 <br>
 ***19.*** _Neuronal Yin Yang1 in the prefrontal cortex regulates transcriptional and behavioral responses to chronic stress in mice_<br>
 Deborah Y. Kwon, Bing Xu, Peng Hu, ***Ying-Tao Zhao***, Jonathan A. Beagan, Jonathan H. Nofziger, Yue Cui, Jennifer E. Phillips-Cremins, Julie A. Blendy, Hao Wu & Zhaolan Zhou <br>
