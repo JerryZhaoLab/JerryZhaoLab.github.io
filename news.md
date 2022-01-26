@@ -7,6 +7,9 @@ permalink: /news/
 # News @ the Jerry Zhao Lab<br>
   <br>
   
+   **01/24/2022:**  **Sana Naeem** joined the Jerry Zhao Lab. **Welcome Sana!** <br>
+  <br>
+  
    **01/10/2022:**  The collaboration with the Joe Zhou lab at the University of Pennsylvania titled “**Neuronal Yin Yang1 in the prefrontal cortex regulates transcriptional and behavioral responses to chronic stress in mice**” is published today in **Nature Communications** <a href="https://www.nature.com/articles/s41467-021-27571-3">(link)</a>.<br>
   <br>
   
