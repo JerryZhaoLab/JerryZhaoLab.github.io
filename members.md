@@ -80,11 +80,13 @@ Mansi Patel is in her first year of the BS/DO program at NYIT. She is from New J
  <br>
 
 <h3>Alumni</h3> <br>
- 
-<img width="300" src="/img/Austin.png" data-action="zoom"> <br>
+
 Austin Meadows (Research Technician, 2020)<br>
  <br>
 Matan Kadosh (NYITCOM Medical School Student, 2020-2021)<br>
  <br>
 Brian Tang  (NYITCOM Medical School Student, 2020-2021)<br>
  <br>
+Saqib Chariwala (NYITCOM Medical School Scholar, 2021)<br>
+ <br>
+ 
