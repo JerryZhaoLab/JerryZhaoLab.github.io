@@ -24,7 +24,10 @@ permalink: /news/
   
   **06/14/2021:**  Our paper titled “**Spatial, temporal, and cell-type-specific expression profiles of genes encoding heparan sulfate biosynthesis enzymes and proteoglycan core proteins**” is published today in **Glycobiology** <a href="https://doi.org/10.1093/glycob/cwab054">(link)</a>. **Congratulations, Sohyun.**<br>
   <br>
- 
+  
+   **01/01/2021:**  **Saqib Chariwala** joined the Jerry Zhao Lab. **Welcome Saqib!** <br>
+  <br>
+  
    **10/01/2020:**  **Brian** presented at the American Physician Scientists Association (APSA) Symposium. **Congratulations, Brian.** <br>
   <br>
   
