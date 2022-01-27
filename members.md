@@ -79,8 +79,7 @@ Mansi Patel<br>
 Mansi Patel is in her first year of the BS/DO program at NYIT. She is from New Jersey. She likes to play tennis and goes to the beach in her free time. Mansi is interested in learning more about genomics. She looks forward to gaining more research experience.<br>
  <br>
 
-<h3>Alumni</h3> <br>
-
+<h3>Alumni</h3>
 Austin Meadows (Research Technician, 2020)<br>
  <br>
 Matan Kadosh (NYITCOM Medical School Student, 2020-2021)<br>
