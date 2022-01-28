@@ -16,7 +16,7 @@ Yura Kim, Mariam Naghavi, ***Ying-Tao Zhao***<br>
 <br>
 ***20.*** _Recursive splicing is a rare event in the mouse brain_<br>
 Sohyun Moon, ***Ying-Tao Zhao***<br>
-***PLOS ONE (accepted)***, 2022 <br>
+***PLOS ONE***, 2022 ([link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0263082))<br>
 <br>
 ***19.*** _Neuronal Yin Yang1 in the prefrontal cortex regulates transcriptional and behavioral responses to chronic stress in mice_<br>
 Deborah Y. Kwon, Bing Xu, Peng Hu, ***Ying-Tao Zhao***, Jonathan A. Beagan, Jonathan H. Nofziger, Yue Cui, Jennifer E. Phillips-Cremins, Julie A. Blendy, Hao Wu & Zhaolan Zhou <br>
