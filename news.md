@@ -6,6 +6,8 @@ permalink: /news/
 
 # News @ the Jerry Zhao Lab<br>
   <br>
+    **01/28/2022:**  Our paper titled “**Recursive splicing is a rare event in the mouse brain**” is published today in **PLOS ONE** <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0263082">(link)</a>. **Congratulations, Sohyun.**<br>
+  <br>
   
    **01/24/2022:**  **Sana Naeem** joined the Jerry Zhao Lab. **Welcome Sana!** <br>
   <br>
