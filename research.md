@@ -13,7 +13,7 @@ The lengths of protein-coding genes in the human genome range from 0.1 kb to 240
 <br>
 
 ## 3. Developing new Machine Learning algorithms.<br>
-Biomedical research has experienced an explosion of new data in the past two decades. However, many of these data were generated to test pre-defined hypotheses, and biomedical information unrelated to the hypotheses remains hidden in the data. Machine Learning algorithms uncover hidden patterns, unknown correlations, and other insights through examining large-scale datasets, thus providing an opportunity to develop efficient and effective approaches to discover new information from biomedical and clinical datasets. This new information might be a stepping stone for further biomedical investigations. We are particularly interested in a type of artificial neural network known as autoencoder. <br>
+Biomedical research has experienced an explosion of new data in the past two decades. However, many of these data were generated to test pre-defined hypotheses, and information unrelated to the hypotheses remains hidden in the data. Machine Learning algorithms uncover hidden patterns, unknown correlations, and other insights through examining large-scale datasets, thus providing an opportunity to develop efficient and effective approaches to discover new information from biomedical and clinical datasets. This new information might be a stepping stone for further investigations. We are particularly interested in a type of artificial neural network known as autoencoder. <br>
 
 <!-- 
 The human genome contains more than 4000 genes 
