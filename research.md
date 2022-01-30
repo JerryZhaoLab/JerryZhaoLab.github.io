@@ -2,28 +2,30 @@
 layout: page
 title: Research 
 ---
- 
-## 1. Understand the transcription and co-transcriptional processing of long genes.<br>
-Protein-coding genes vary in gene lengths, ranging from 0.1 kb to 2400 kb. The human genome contains more than 4000 genes longer than 100 kb, which are implicated in various human diseases, including amyotrophic lateral sclerosis, autism spectrum disorder, Alzheimer's disease, and cancer. Gene lengths affect transcription because gene transcription relies on RNA polymerase II (Pol II) moving across the entire gene region. Gene lengths also affect co-transcriptional processes, such as intron splicing, because a long intron represents a larger RNA molecule to be removed from mRNA precursors than a short intron does. Our research focuses on the following questions: <br>
-<!-- ## Question 1: How is chromatin organized in the gene bodies of long genes? <br>
-Chromatin is highly organized in the nucleus. During the past decade, our understanding of chromatin organizations is significantly advanced by high-throughput sequencing technologies and imaging technologies. Chromatin organizations, from the higher levels of compartments and chromosome territories to the lower levels of topologically associating domains and enhancer-promoter loops, are crucial for various biological processes, particularly gene transcription. However, we know almost nothing about chromatin organization at gene body regions, where transcription actually happens. This is primarily because the resolutions of current technologies are insufficient to study most genes. For example, due to sequencing cost, most Hi-C data have a resolution of 25-40 kb, but the median length of human genes is 10 kb. Long genes, however, present an ideal model to overcome these limitations. We plan to use long genes as a model to illuminate the basic principles and functions of gene-body chromatin organizations. <br>
-<br> -->
+## 1. Heparan sulfate in brain health and disease.<br>
+Heparan sulfate (HS), a glycosaminoglycan that covers the surface of all human cells, is implicated in a series of brain disorders such as Alzheimer’s disease, Parkinson's disease, and autism. HS function is determined largely by its modifications, particularly the 6-O-sulfation. HS 6-O-sulfation is catalyzed by three 6-O-sulfotransferases (HS6ST1-3). Notably, mutations in HS6ST1-3 are also linked to brain disorders, including intellectual disability, GnRH deficiency, and Kallmann syndrome. However, the pathophysiology and underlying mechanisms for these brain disorders remain poorly understood, and current therapies are limited. Our long-term goal is to use mouse models to reveal the etiology of HS 6-O-sulfation associated brain disorders, with a hope to eventually develop a cure. <br> 
+<br>
+<br>
+
+## 2. Long genes in brain health and disease.<br>
+The lengths of protein-coding genes in the human genome range from 0.1 kb to 2400 kb. Genes longer than 100 kb (long genes) are implicated in various human brain disorders, including amyotrophic lateral sclerosis, autism spectrum disorder, and Alzheimer's disease. Our long-term goal is to use genomics, epigenetics, and mouse models to reveal the pathophysiology and molecular mechanisms of long gene associated brain disorders. We are particularly interested in the mechanisms underlying the transcription, splicing, and evolution of long genes. <br>
+<br>
+<br>
+
+## 3. Developing new Machine Learning algorithms.<br>
+Biomedical research has experienced an explosion of new data in the past two decades. However, many of these data were generated to test pre-defined hypotheses, and biomedical information unrelated to the hypotheses remains hidden in the data. Machine Learning algorithms uncover hidden patterns, unknown correlations, and other insights through examining large-scale datasets, thus providing an opportunity to develop efficient and effective approaches to discover new information from biomedical and clinical datasets. This new information might be a steppingstone for further biomedical investigations. We are particularly interested in a type of artificial neural network known as autoencoder. <br>
+
+<!-- 
+The human genome contains more than 4000 genes 
+Gene lengths affect transcription because gene transcription relies on RNA polymerase II (Pol II) moving across the entire gene region. Gene lengths also affect co-transcriptional processes, such as intron splicing, because a long intron represents a larger RNA molecule to be removed from mRNA precursors than a short intron does. Our research focuses on the following questions: <br>
 ## How are long genes transcribed? <br>
 Gene transcription is coupled with a series of well-controlled Pol II activities, including recruitment, initiation, pausing, elongation, and termination. The current understanding of Pol II activities is mainly obtained from studies using non-neuronal cells, which rarely express long genes. Thus, the mechanisms regulating Pol II activities in long genes remain largely unknown. We use neuronal cells to illuminate the molecular mechanisms regulating Pol II activities (e.g., recruitment, initiation, pausing, elongation, and termination) in long genes.  <br>
 ## How are long introns spliced? <br>
 Intron lengths affect the splicing process. Splicing a long intron is a challenge for canonical splicing mechanism, because a long intron takes a longer time to be transcribed and represents a larger RNA molecule to be removed than a short intron does. Indeed, long introns are associated with a high rate of splicing errors, which are implicated in various human diseases. Despite the importance of long intron splicing, however, we have a limited understanding of its molecular mechanisms. Several splicing mechanisms, such as recursive splicing, have been reported for long intron splicing, but their molecular basis remains elusive. We combine computational and experimental approaches to reveal the molecular mechanisms of intron splicing in long genes. <br>
-<br>
-<br>
+-->
 
-
-## 2. Illuminate the role of heparan sulfate in brain function.<br>
-Heparan sulfate is a type of glycosaminoglycan that presents on the surface of most human cells and in the extracellular matrix. The function of heparan sulfate requires a series of modifications, such as 6-O-sulfation, which is generated by heparan sulfate 6-O-sulfotransferases (HS6STs). The mammalian genome encodes three HS6STs, but their role in brain function remains poorly understood. We use molecular biology, mouse genetics, and genomics approaches to study the function of HS6STs in the brain. <br> 
-<br>
-<br>
+<!-- ## Question 1: How is chromatin organized in the gene bodies of long genes? <br>
+Chromatin is highly organized in the nucleus. During the past decade, our understanding of chromatin organizations is significantly advanced by high-throughput sequencing technologies and imaging technologies. Chromatin organizations, from the higher levels of compartments and chromosome territories to the lower levels of topologically associating domains and enhancer-promoter loops, are crucial for various biological processes, particularly gene transcription. However, we know almost nothing about chromatin organization at gene body regions, where transcription actually happens. This is primarily because the resolutions of current technologies are insufficient to study most genes. For example, due to sequencing cost, most Hi-C data have a resolution of 25-40 kb, but the median length of human genes is 10 kb. Long genes, however, present an ideal model to overcome these limitations. We plan to use long genes as a model to illuminate the basic principles and functions of gene-body chromatin organizations. <br>
+<br> -->
 
 <!-- Autism spectrum disorder (ASD) is a lifelong developmental disability that affects 1 in 59 children. Hundreds of thousands of families are suffering from ASD. These sufferings can be greatly relieved by therapeutic treatment or cure of ASD. However, this is no cure for ASD so far, largely due to the lack of a good understanding of its molecular mechanisms. These molecular mechanisms are crucial for identifying therapeutic targets. Particularly, a molecular abnormality shared by the large majority of ASD individuals will be an ideal therapeutic target, because it has the potential to help a large portion of ASD individuals. We recently find that misregulation of long genes could be a molecular abnormality shared by the large majority of ASD individuals. We plan to illuminate the role of the misregulation of long genes in ASD etiology. Our research will provide new insights into the molecular mechanisms of ASD and a potential therapeutic target, which will hopefully facilitate the development of ASD treatment and eventually alleviate the suffering of ASD individuals and their families. <br>  -->
-
-
-## 3. Discover new biomedical information from omics data using Machine Learning algorithms.<br>
-Biomedical research has experienced an explosion of new data in the past few years. However, many of these data were generated to test pre-defined hypotheses, indicating that new biomedical information unrelated to the hypotheses may remain hidden in the data. Machine Learning algorithms uncover hidden patterns, unknown correlations, and other insights through examining large-scale datasets, which provide a feasible opportunity to develop efficient and effective approaches to discover new information from omics datasets. This new information might be a steppingstone for further biomedical investigations. Thus, we apply Machine Learning algorithms in omics data to discover new biomedical information. 
-<br>
