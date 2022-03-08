@@ -63,6 +63,12 @@ Mariam Naghavi<br>
 Mariam is in her third year of the seven-year combined Bachelor of Science and Doctor of Osteopathic Medicine studies at NYIT / NYIT College of Osteopathic Medicine in Old Westbury. She hopes to complete her undergraduate studies in the Spring of 2020 and matriculate into the medical school portion of her program this Fall. She has been exposed to a wide variety of courses during her undergraduate studies, ranging from pharmacology to comparative anatomy. In her free time, she enjoys getting involved with the community, watching cooking shows, and snuggling with her dogs. Mariam is eager to collaborate and looks forward to learning more about biomedical research. <br>
 
  <br>
+<img width="300" src="/img/Sana.png" data-action="zoom"><br>
+Sana Naeem<br>
+
+Sana is a first year medical student at NYITCOM, finishing her fourth year in NYIT’s seven year BS/DO program. Sana completed a broad range of courses during her undergraduate studies at NYIT, mainly focusing on life sciences. She’s involved in NYITCOM’s MSA, SAAO, and Rock Steady Boxing. Sana enjoys going on walks with friends, trying the latest food trends, watching Netflix shows, and spending time with her cat. She looks forward to gaining research experience and learning more about genomics in Dr. Zhao’s lab.  <br>
+
+ <br>
  
  <h3>Graduate Student </h3>
 <img width="300" src="/img/Ali.jpg" data-action="zoom"><br>
