@@ -69,14 +69,7 @@ Sana Naeem<br>
 Sana is a first year medical student at NYITCOM, finishing her fourth year in NYIT’s seven year BS/DO program. Sana completed a broad range of courses during her undergraduate studies at NYIT, mainly focusing on life sciences. She’s involved in NYITCOM’s MSA, SAAO, and Rock Steady Boxing. Sana enjoys going on walks with friends, trying the latest food trends, watching Netflix shows, and spending time with her cat. She looks forward to gaining research experience and learning more about genomics in Dr. Zhao’s lab.  <br>
 
  <br>
- 
- <h3>Graduate Student </h3>
-<img width="300" src="/img/Ali.jpg" data-action="zoom"><br>
-Ali Mian<br>
 
-Ali completed his undergraduate degree at St. John’s University in Queens. There he majored in Biology and minored in Chemistry. He is currently in his first year of the 5 year MS/DO bridge program at NYIT and hopes to matriculate into NYITCOM in the Fall of 2022. Ali has done research in the field of Ecology at St. John’s and assisted on a case report on Takayasu Arteritis at Nassau University Medical Center. Ali is interested in learning more about genetics and genetic related disorders. In his free time he likes to play basketball and watch the latest shows on Netflix.<br>
- <br>
- 
  
 <h3>Undergraduate Student </h3>
 <img width="300" src="/img/Mansi.jpeg" data-action="zoom"><br>
@@ -94,4 +87,6 @@ Brian Tang  (NYITCOM Medical School Student, 2020-2021)<br>
  <br>
 Saqib Chariwala (NYITCOM Medical School Scholar, 2021)<br>
  <br>
- 
+Ali Mian (NYIT Graduate Student, 2021-2022)<br>
+ <br>
+
