@@ -6,8 +6,14 @@ permalink: /news/
 
 # News @ the Jerry Zhao Lab<br>
   <br>
-  
+
+**07/11/2022:**  **Jerry** gave a talk at the **2022 Proteoglycans Gordon Conference** titled “**Heparan Sulfate 6-O-sulfation in Kallmann Syndrome and Intellectual Disability**” <br>
+  <br>
+
 **03/23/2022:**  The collaboration with the Haotian Zhao lab at NYIT titled “**Disruption of GMNC-MCIDAS multiciliogenesis program is critical in choroid plexus carcinoma development**” is published today in **Cell Death & Differentiation** <a href="https://www.nature.com/articles/s41418-022-00950-z">(link)</a>. <br>
+  <br>
+
+   **03/21/2022:**  Congrats to **Ali** who has been accepted to medical school at NYIT. <br>
   <br>
   
    **01/28/2022:**  Our paper titled “**Recursive splicing is a rare event in the mouse brain**” is published today in **PLOS ONE** <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0263082">(link)</a>. **Congratulations, Sohyun.**<br>
