@@ -10,6 +10,9 @@ permalink: /news/
 **07/11/2022:**  **Jerry** gave a talk at the **2022 Proteoglycans Gordon Conference** titled “**Heparan Sulfate 6-O-sulfation in Kallmann Syndrome and Intellectual Disability**” <br>
   <br>
 
+   **04/29/2022:**  **Mansi** presented at the 2022 NYIT SOURCE Symposium. **Congratulations, Mansi.**  <br>
+  <br>
+  
 **03/23/2022:**  The collaboration with the Haotian Zhao lab at NYIT titled “**Disruption of GMNC-MCIDAS multiciliogenesis program is critical in choroid plexus carcinoma development**” is published today in **Cell Death & Differentiation** <a href="https://www.nature.com/articles/s41418-022-00950-z">(link)</a>. <br>
   <br>
 
@@ -50,6 +53,9 @@ permalink: /news/
   <br>
   
    **09/11/2020:**  Our manuscript titled “**LongGeneDB: a data hub for long genes**” is available in **bioRXiv** <a href="https://doi.org/10.1101/2020.09.08.281220">(bioRXiv)</a>. **Congratulations, Yura and Mariam.** <br>
+  <br>
+ 
+   **09/01/2020:**  Congrats to **Yura** and **Mariam** who start their first yeat of medical school at NYIT. <br>
   <br>
   
    **07/07/2020:**  The collaboration with the Zhou lab (my Postdoc mentor) at the University of Pennsylvania titled “**Stress-induced epigenetic regulation of transcription in neocortical excitatory neurons drives depression-like behavior**” is available in **bioRXiv** <a href="https://www.biorxiv.org/content/10.1101/2020.07.06.190280v1?rss=1">(bioRXiv)</a>.<br>
