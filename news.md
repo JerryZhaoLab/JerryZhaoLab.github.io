@@ -7,7 +7,7 @@ permalink: /news/
 # News @ the Jerry Zhao Lab<br>
   <br>
 
-**07/11/2022:**  **Jerry** gave a talk at the **2022 Proteoglycans Gordon Conference** titled “**Heparan Sulfate 6-O-sulfation in Kallmann Syndrome and Intellectual Disability**” <br>
+**07/11/2022:**  **Jerry** gave a talk at the **2022 Proteoglycans Gordon Conference** titled “**Heparan Sulfate 6-O-sulfation in Kallmann Syndrome and Intellectual Disability**”. <br>
   <br>
 
    **04/29/2022:**  **Mansi** presented at the 2022 NYIT SOURCE Symposium. **Congratulations, Mansi.**  <br>
