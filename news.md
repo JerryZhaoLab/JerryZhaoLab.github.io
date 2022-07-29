@@ -7,6 +7,9 @@ permalink: /news/
 # News @ the Jerry Zhao Lab<br>
   <br>
 
+**07/28/2022:**  Our paper titled “**Convergent biological pathways underlying the Kallmann syndrome-linked genes Hs6st1 and Fgfr1**” is published today in **Human Molecular Genetics** <a href="https://academic.oup.com/hmg/advance-article/doi/10.1093/hmg/ddac172/6650945">(link)</a>. **Congratulations, Sohyun.**<br>
+   <br>
+   
 **07/19/2022:**  Our lab received the **2022 AARG Award** from the **Alzheimer's Association** <a href="https://www.alz.org/">(Alzheimer's Association)</a>. We greatly appreciate the generous support for our research from the Alzheimer's Association. <br>
   <br>
   
