@@ -14,6 +14,10 @@ Yura Kim, Mariam Naghavi, ***Ying-Tao Zhao***<br>
 ***bioRxiv***, 2020 ([bioRxiv](https://doi.org/10.1101/2020.09.08.281220)) <br>
 <br>
 <br>
+***22.*** _Convergent biological pathways underlying the Kallmann syndrome-linked genes Hs6st1 and Fgfr1_<br>
+Sohyun Moon, ***Ying-Tao Zhao***<br>
+***Human Molecular Genetics***, 2022 ([link](https://academic.oup.com/hmg/advance-article/doi/10.1093/hmg/ddac172/6650945))<br>
+<br>
 ***21.*** _Disruption of GMNC-MCIDAS multiciliogenesis program is critical in choroid plexus carcinoma development_<br>
 Qun Li, Zhiyuan Han, Navleen Singh, Berta Terré, Ryann M. Fame, Uzayr Arif, Thomas D. Page, Tasneem Zahran, Ahmed Abdeltawab, Yuan Huang, Ping Cao, Jun Wang, Hao Lu, Hart G. W. Lidov, Kameswaran Surendran, Lizhao Wu, James Q. Virga, ***Ying-Tao Zhao***, Ulrich Schüller, Robert J. Wechsler-Reya, Maria K. Lehtinen, Sudipto Roy, Zhongmin Liu, Travis H. Stracker & Haotian Zhao<br>
 ***Cell Death & Differentiation***, 2022 ([link](https://www.nature.com/articles/s41418-022-00950-z))<br>
