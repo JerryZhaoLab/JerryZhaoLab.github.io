@@ -7,6 +7,9 @@ permalink: /news/
 # News @ the Jerry Zhao Lab<br>
   <br>
 
+**08/25/2022:**  Our lab received a **one-year Grant Award** from **The Adele Smithers Parkinson’s Disease Center Research Program** <a href="[https://www.alz.org/](https://www.nyit.edu/medicine/adele_smithers_parkinsons_disease_treatment_center)">(link)</a>. We greatly appreciate the generous support for our research from the Adele Smithers Parkinson’s Disease Treatment Center. <br>
+   <br>
+ 
 **07/28/2022:**  Our paper titled “**Convergent biological pathways underlying the Kallmann syndrome-linked genes Hs6st1 and Fgfr1**” is published today in **Human Molecular Genetics** <a href="https://academic.oup.com/hmg/advance-article/doi/10.1093/hmg/ddac172/6650945">(link)</a>. **Congratulations, Sohyun.**<br>
    <br>
    
