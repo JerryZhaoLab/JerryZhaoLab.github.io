@@ -37,16 +37,6 @@ Sohyun got her PhD in molecular biotechnology from Konkuk University, South Kore
  <br>
  <br>
 
-<img width="300" src="/img/Sam.png" data-action="zoom"><br>
-Samantha (Sam) Mota <br>
-Research Technician<br>
-smota02@nyit.edu<br>
-<br> 
-
-Sam got her Bachelors of Science at Farmingdale State College. Following her graduation, she began working at NYU Long Island School of Medicine as a research technician and assisted in the research of circadian rhythm and its interaction with atherosclerosis in mice. Sam is interested in genetics and is excited to be a part of the discoveries being made in Dr. Zhao’s lab. In her free time she enjoys cooking and watching true-crime documentaries as well as playing with her two new kittens she recently welcomed to her family. <br>
-
- <br>
- <br>
 
 
 <h3>Medical School Student </h3>
@@ -89,4 +79,5 @@ Saqib Chariwala (NYITCOM Medical School Scholar, 2021)<br>
  <br>
 Ali Mian (NYIT Graduate Student, 2021-2022)<br>
  <br>
-
+Samantha Mota (Research Technician, 2021-2022)<br>
+ <br>
