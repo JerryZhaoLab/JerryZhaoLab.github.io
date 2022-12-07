@@ -10,7 +10,7 @@ permalink: /news/
 **12/07/2022:**  The collaboration with the Weikang Cai lab at NYIT titled “**Insulin and IGF-1 elicit robust transcriptional regulation to modulate autophagy in astrocytes**” is published today in **Molecular Metabolism** <a href="https://doi.org/10.1016/j.molmet.2022.101647">(link)</a>. **Congratulations, Sohyun.**<br>
   <br>
 
-**12/01/2022:**  Our lab received the **Research Enhancement Award (REAP) (R15)** from the **National Institute of Neurological Disorders and Stroke (NINDS), National Institutes of Health (NIH) **. We greatly appreciate the generous support for our research from the NINDS and NIH. <br>
+**12/01/2022:**  Our lab received the **Research Enhancement Award (REAP) (R15)** from the **National Institute of Neurological Disorders and Stroke (NINDS), National Institutes of Health (NIH)**. We greatly appreciate the generous support for our research from the **NINDS** and **NIH**. <br>
   <br>
 
 **08/25/2022:**  Our lab received a **one-year Grant Award** from **The Adele Smithers Parkinson’s Disease Center Research Program**. We greatly appreciate the generous support for our research from the Adele Smithers Parkinson’s Disease Treatment Center <a href="https://www.nyit.edu/medicine/adele_smithers_parkinsons_disease_treatment_center)">(link)</a>. <br>
