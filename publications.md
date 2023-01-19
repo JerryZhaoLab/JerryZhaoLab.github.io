@@ -14,6 +14,9 @@ Yura Kim, Mariam Naghavi, ***Ying-Tao Zhao***<br>
 ***bioRxiv***, 2020 ([bioRxiv](https://doi.org/10.1101/2020.09.08.281220)) <br>
 <br>
 <br>
+***23.*** _Insulin and IGF-1 elicit robust transcriptional regulation to modulate autophagy in astrocytes_<br>
+Shawn Geffken, ***Sohyun Moon***, Catherine Smith, Sharon Tang, Hiu Ham Lee, Kevin Lewis, Chun Wa Wong, Yuan Huang, Qian Huang, ***Ying-Tao Zhao***, Weikang Cai<br>
+***Molecular Metabolism***, 2022 ([link](https://www.sciencedirect.com/science/article/pii/S2212877822002162?via%3Dihub))<br>
 ***22.*** _Convergent biological pathways underlying the Kallmann syndrome-linked genes Hs6st1 and Fgfr1_<br>
 Sohyun Moon, ***Ying-Tao Zhao***<br>
 ***Human Molecular Genetics***, 2022 ([link](https://academic.oup.com/hmg/advance-article/doi/10.1093/hmg/ddac172/6650945))<br>
@@ -34,14 +37,15 @@ Deborah Y. Kwon, Bing Xu, Peng Hu, ***Ying-Tao Zhao***, Jonathan A. Beagan, Jona
 Sohyun Moon, ***Ying-Tao Zhao***<br>
 ***Glycobiology***, 2021 ([link](https://doi.org/10.1093/glycob/cwab054)) <br>
 <br>
-***17.*** _Genomic architecture of Shh dependent cochlear morphogenesis_<br>
-Victor Muthu, Alex. M. Rohacek, Yao Yao, Staci M. Rakowiecki, Alexander S. Brown, ***Ying-Tao Zhao***, James Meyers, Kyoung-Jae Won, Shweta Ramdas, Christopher D. Brown, Kevin A. Peterson, Douglas J. Epstein<br>
-***Development***, 2019 ([PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=31488567)) <br>
- <br>
+
 <hr> 
  <br>
  
 ### University of Pennsylvania 
+***17.*** _Genomic architecture of Shh dependent cochlear morphogenesis_<br>
+Victor Muthu, Alex. M. Rohacek, Yao Yao, Staci M. Rakowiecki, Alexander S. Brown, ***Ying-Tao Zhao***, James Meyers, Kyoung-Jae Won, Shweta Ramdas, Christopher D. Brown, Kevin A. Peterson, Douglas J. Epstein<br>
+***Development***, 2019 ([PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=31488567)) <br>
+
 ***16.*** _Long genes linked to autism spectrum disorders harbor broad enhancer-like chromatin domains_<br>
 ***Ying-Tao Zhao***, Deborah Y Kwon, Brian S Johnson, Maria Fasolino, Janine M Lamonica, Yoon Jung Kim, Boxuan Simen Zhao, Chuan He, Golnaz Vahedi, Tae Hoon Kim, Zhaolan Zhou<br>
 ***Genome research***, 2018 ([PubMed](https://www.ncbi.nlm.nih.gov/pubmed/29848492)) <br>
