@@ -64,6 +64,11 @@ Mahima Parappurath<br>
 Mahima Parappurath is in her fourth year as a B.S. Biology major at NYIT. Mahima is from Philadelphia and enjoys several hobbies such as dancing and playing sports. Mahima looks forward to gaining more research experience and attending medical school in the future. <br>
  <br>
 
+Zainab Mubasher<br>
+<br>
+<br>
+
+
 <h3>Alumni</h3>
 Austin Meadows (Research Technician, 2020)<br>
  <br>
