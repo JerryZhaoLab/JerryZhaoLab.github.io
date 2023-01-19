@@ -15,7 +15,7 @@ Yura Kim, Mariam Naghavi, ***Ying-Tao Zhao***<br>
 <br>
 <br>
 ***23.*** _Insulin and IGF-1 elicit robust transcriptional regulation to modulate autophagy in astrocytes_<br>
-Shawn Geffken, Sohyun Moon, Catherine Smith, Sharon Tang, Hiu Ham Lee, Kevin Lewis, Chun Wa Wong, Yuan Huang, Qian Huang, ***Ying-Tao Zhao***, Weikang Cai<br>
+Shawn Geffken, ***Sohyun Moon***, Catherine Smith, Sharon Tang, Hiu Ham Lee, Kevin Lewis, Chun Wa Wong, Yuan Huang, Qian Huang, ***Ying-Tao Zhao***, Weikang Cai<br>
 ***Molecular Metabolism***, 2022 ([link](https://www.sciencedirect.com/science/article/pii/S2212877822002162?via%3Dihub))<br>
 <br>
 ***22.*** _Convergent biological pathways underlying the Kallmann syndrome-linked genes Hs6st1 and Fgfr1_<br>
