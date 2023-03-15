@@ -3,7 +3,7 @@ layout: page
 title: Research 
 ---
 ## 1. Heparan sulfate in brain health and disease.<br>
-Heparan sulfate (HS), a sugar molecule that covers the surface of all human cells, is associated with a series of brain disorders such as Alzheimer’s disease, Parkinson's disease, intellectual disability, and Kallmann syndrome. However, the mechanisms underlying these brain disorders and HS remain poorly understood, and current therapies are limited. Our long-term goal is to use mouse models and multidisciplinary approaches to reveal how HS dysfunction contributes to these brain disorders, with the hope to eventually develop a cure. We are currently focused on enzymes that modify HS, particularly the three 6-O-sulfotransferases (HS6ST1-3). <br> 
+Heparan sulfate (HS), a sugar molecule that covers the surface of all human cells, is associated with a series of brain disorders such as Alzheimer’s disease, Parkinson's disease, intellectual disability, and Kallmann syndrome. However, the mechanisms underlying these brain disorders and HS remain poorly understood, and current therapies are limited. Our long-term goal is to use mouse models and multidisciplinary approaches to reveal how HS dysfunction contributes to these brain disorders, with the hope to eventually develop a cure. We are currently focused on HS biosynthesis enzymes, particularly the three 6-O-sulfotransferases (HS6ST1-3). <br> 
 <br>
 <br>
 <img width="500" src="/img/Brain1.png" data-action="zoom"><br>
