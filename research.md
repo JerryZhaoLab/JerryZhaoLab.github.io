@@ -10,7 +10,7 @@ Heparan sulfate (HS), a sugar molecule that covers the surface of all human cell
 <br>
 
 ## 2. Long genes in brain health, disease, and evolution.<br>
-The lengths of protein-coding genes in the human genome range from 0.1 kb to 2400 kb. Genes longer than 100 kb (long genes) are implicated in various human brain disorders, including amyotrophic lateral sclerosis, autism spectrum disorder, and Alzheimer's disease. Our long-term goal is to use genomics, epigenetics, and mouse models to reveal the pathophysiology and molecular mechanisms of long gene associated brain disorders. We are particularly interested in the mechanisms underlying the transcription, splicing, and evolution of long genes. <br>
+Protein-coding genes in the human genome vary in length, ranging from 0.1 kb to 2400 kb. Genes longer than 100 kb (long genes) are enriched in the brain and are implicated in multiple human brain disorders, including amyotrophic lateral sclerosis, autism, and Alzheimer's disease, but the underlying mechanisms are largely unknown. Our long-term goal is to use genomics, epigenetics, and mouse models to identify the regulation mechanisms of long genes in the brain and to reveal the etiology of long gene-associated brain disorders. We are particularly interested in the mechanisms underlying the transcription, splicing, and evolution of long genes. <br>
 <br>
 <br>
 <img width="500" src="/img/Brain2.png" data-action="zoom"><br>
