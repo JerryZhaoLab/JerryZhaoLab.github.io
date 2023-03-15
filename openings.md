@@ -13,9 +13,9 @@ permalink: /openings/
  <br> --->
  
 **Technician**<br>
-<!---We seek a research laboratory technician, who will provide technical support for a research laboratory that includes assistance in genomic data analysis, experimental procedures, animal care, and general lab support. <br>
+We seek a research laboratory technician, who will provide technical support for a research laboratory that includes assistance in experimental procedures, animal care, and general lab support. <br>
 *Requirements*<br>
-B.S. or B.A. in computer science, biology, bioengineering, or related field. Minimum 1 year of previous research lab experience. Experience with bioinformatics, molecular biology, cell culture, and lab animals is a plus. Ability to work independently with attention to details. Good communication skills.<br> --->
+B.S. or B.A. in biology, bioengineering or related field. Minimum 1 year of previous research lab experience. Experience with lab animals, molecular biology, and cell culture  is a plus. Ability to work independently with attention to details. Good communication skills.<br> 
  <br>
  
 **Graduate Students**<br>
