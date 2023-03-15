@@ -3,13 +3,13 @@ layout: page
 title: Research 
 ---
 ## 1. Heparan sulfate in brain health and disease.<br>
-Heparan sulfate (HS), a glycosaminoglycan that covers the surface of all human cells, is implicated in a series of brain disorders such as Alzheimer’s disease, Parkinson's disease, and autism. HS function is determined largely by its modifications, particularly the 6-O-sulfation. HS 6-O-sulfation is catalyzed by three 6-O-sulfotransferases (HS6ST1-3). Notably, mutations in HS6ST1-3 are also linked to brain disorders, including intellectual disability, GnRH deficiency, and Kallmann syndrome. However, the pathophysiology and underlying mechanisms for these brain disorders remain poorly understood, and current therapies are limited. Our long-term goal is to use mouse models to reveal the etiology of HS 6-O-sulfation associated brain disorders, with a hope to eventually develop a cure. <br> 
+Heparan sulfate (HS), a sugar molecule that covers the surface of all human cells, is associated with a series of brain disorders such as Alzheimer’s disease, Parkinson's disease, intellectual disability, and Kallmann syndrome. However, the mechanisms underlying these brain disorders and HS remain poorly understood, and current therapies are limited. Our long-term goal is to use mouse models and multidisciplinary approaches to reveal how HS dysfunction contributes to these brain disorders, with the hope to eventually develop a cure. We are currently focused on enzymes that modify HS, particularly the three 6-O-sulfotransferases (HS6ST1-3). <br> 
 <br>
 <br>
 <img width="500" src="/img/Brain1.png" data-action="zoom"><br>
 <br>
 
-## 2. Long genes in brain health and disease.<br>
+## 2. Long genes in brain health, disease, and evolution.<br>
 The lengths of protein-coding genes in the human genome range from 0.1 kb to 2400 kb. Genes longer than 100 kb (long genes) are implicated in various human brain disorders, including amyotrophic lateral sclerosis, autism spectrum disorder, and Alzheimer's disease. Our long-term goal is to use genomics, epigenetics, and mouse models to reveal the pathophysiology and molecular mechanisms of long gene associated brain disorders. We are particularly interested in the mechanisms underlying the transcription, splicing, and evolution of long genes. <br>
 <br>
 <br>
