@@ -6,14 +6,20 @@ title: Research
 Heparan sulfate (HS), a glycosaminoglycan that covers the surface of all human cells, is implicated in a series of brain disorders such as Alzheimer’s disease, Parkinson's disease, and autism. HS function is determined largely by its modifications, particularly the 6-O-sulfation. HS 6-O-sulfation is catalyzed by three 6-O-sulfotransferases (HS6ST1-3). Notably, mutations in HS6ST1-3 are also linked to brain disorders, including intellectual disability, GnRH deficiency, and Kallmann syndrome. However, the pathophysiology and underlying mechanisms for these brain disorders remain poorly understood, and current therapies are limited. Our long-term goal is to use mouse models to reveal the etiology of HS 6-O-sulfation associated brain disorders, with a hope to eventually develop a cure. <br> 
 <br>
 <br>
+<img width="300" src="/img/Brain1.png" data-action="zoom"><br>
+<br>
 
 ## 2. Long genes in brain health and disease.<br>
 The lengths of protein-coding genes in the human genome range from 0.1 kb to 2400 kb. Genes longer than 100 kb (long genes) are implicated in various human brain disorders, including amyotrophic lateral sclerosis, autism spectrum disorder, and Alzheimer's disease. Our long-term goal is to use genomics, epigenetics, and mouse models to reveal the pathophysiology and molecular mechanisms of long gene associated brain disorders. We are particularly interested in the mechanisms underlying the transcription, splicing, and evolution of long genes. <br>
 <br>
 <br>
+<img width="300" src="/img/Brain2.png" data-action="zoom"><br>
+<br>
 
+<!-- 
 ## 3. Developing new Machine Learning algorithms.<br>
 Biomedical research has experienced an explosion of new data in the past two decades. However, many of these data were generated to test pre-defined hypotheses, and information unrelated to the hypotheses remains hidden in the data. Machine Learning algorithms uncover hidden patterns, unknown correlations, and other insights through examining large-scale datasets, thus providing an opportunity to develop efficient and effective approaches to discover new information from biomedical and clinical datasets. This new information might be a stepping stone for further investigations. We are particularly interested in a type of artificial neural network known as autoencoder. <br>
+-->
 
 <!-- 
 The human genome contains more than 4000 genes 
