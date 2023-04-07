@@ -7,7 +7,7 @@ permalink: /news/
 # News @ the Jerry Zhao Lab<br>
   <br>
 
-# 2022 
+# <span style="color:tomato;">2022</span>
 
 **12/07/2022:**  The collaboration with the Weikang Cai lab at NYIT titled “**Insulin and IGF-1 elicit robust transcriptional regulation to modulate autophagy in astrocytes**” is published today in **Molecular Metabolism** <a href="https://doi.org/10.1016/j.molmet.2022.101647">(link)</a>. **Congratulations, Sohyun.**<br>
   <br>
@@ -45,7 +45,7 @@ permalink: /news/
    **01/10/2022:**  The collaboration with the Joe Zhou lab at the University of Pennsylvania titled “**Neuronal Yin Yang1 in the prefrontal cortex regulates transcriptional and behavioral responses to chronic stress in mice**” is published today in **Nature Communications** <a href="https://www.nature.com/articles/s41467-021-27571-3">(link)</a>.<br>
   <br>
 
-# 2021 
+# <span style="color:tomato;">2021</span>
 
    **11/07/2021 - 11/10/2021:  Jerry** presented at the **2021 Annual Meeting of the Society of Glycobiology** at San Diego, CA.<br>
   <br>
@@ -62,7 +62,7 @@ permalink: /news/
    **01/01/2021:**  **Saqib Chariwala** joined the Jerry Zhao Lab. **Welcome Saqib!** <br>
   <br>
 
-# 2020 
+# <span style="color:tomato;">2020</span> 
 
    **10/01/2020:**  **Brian** presented at the American Physician Scientists Association (APSA) Symposium. **Congratulations, Brian.** <br>
   <br>
@@ -106,7 +106,7 @@ permalink: /news/
  **01/17/2020:**  Get my teaching evaluation from students: "**Dr. Jerry Zhao is a great facilitator.**". 😀 ≧◡≦ <br>
   <br>
 
-# 2019 
+# <span style="color:tomato;">2019</span> 
 
  **12/16/2019:  Jerry** presented at the **Fox Chase Cancer Center Epigenetics Symposium**.<br>
   <br>
