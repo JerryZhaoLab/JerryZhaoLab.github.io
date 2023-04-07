@@ -7,7 +7,7 @@ permalink: /news/
 # News @ the Jerry Zhao Lab<br>
   <br>
 
-# <span style="color:tomato;">2022: June - December</span>
+# <span style="color:tomato"> 2022 </span>
 
 **12/07/2022:**  The collaboration with the Weikang Cai lab at NYIT titled “**Insulin and IGF-1 elicit robust transcriptional regulation to modulate autophagy in astrocytes**” is published today in **Molecular Metabolism** <a href="https://doi.org/10.1016/j.molmet.2022.101647">(link)</a>. **Congratulations, Sohyun.**<br>
   <br>
