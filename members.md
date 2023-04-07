@@ -11,9 +11,9 @@ Jerry Yingtao Zhao<br>
 Assistant Professor<br>
 yzhao47@nyit.edu<br>
   <br>
-  BS, Economics, <a href="https://www.nju.edu.cn/EN/">Nanjing University</a> (2005)<br>
-  PhD, Bioinformatics, <a href="http://english.genetics.cas.cn/">Chinese Academy of Sciences</a> (2010)<br>
-  Postdoc, Brain disorders, <a href="https://home.www.upenn.edu/">University of Pennsylvania</a><br>
+  BS, Economics, Nanjing University (2005)<br>
+  PhD, Bioinformatics, Chinese Academy of Sciences (2010)<br>
+  Postdoc, Brain disorders, University of Pennsylvania<br>
 <br>
 
 
