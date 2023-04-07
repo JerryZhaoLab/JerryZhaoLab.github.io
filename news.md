@@ -12,6 +12,12 @@ permalink: /news/
 **04/01/2023:**  Our lab received the **2023 Research Grant Award** from the **Mizutani Foundation for Glycoscience (Japan)**. We greatly appreciate the generous support for our research from the **Mizutani Foundation**. <br>
   <br>
  
+ **03/09/2023:**  **Tiffany Tran** and **Rianna Pannikodu**, two undergraduate students, joined the Jerry Zhao Lab. **Welcome Tiffany and Rianna!** <br>
+  <br>
+ 
+ **03/07/2023:**  **Laiba Ahmed**, a medical school student, joined the Jerry Zhao Lab. **Welcome Laiba!** <br>
+  <br>
+  
  
 
 # <span style="color:tomato;">2022</span>
@@ -46,7 +52,7 @@ permalink: /news/
    **01/28/2022:**  Our paper titled “**Recursive splicing is a rare event in the mouse brain**” is published today in **PLOS ONE** <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0263082">(link)</a>. **Congratulations, Sohyun.**<br>
   <br>
   
-   **01/24/2022:**  **Sana Naeem** joined the Jerry Zhao Lab. **Welcome Sana!** <br>
+   **01/24/2022:**  **Sana Naeem**, a medical school student, joined the Jerry Zhao Lab. **Welcome Sana!** <br>
   <br>
   
    **01/10/2022:**  The collaboration with the Joe Zhou lab at the University of Pennsylvania titled “**Neuronal Yin Yang1 in the prefrontal cortex regulates transcriptional and behavioral responses to chronic stress in mice**” is published today in **Nature Communications** <a href="https://www.nature.com/articles/s41467-021-27571-3">(link)</a>.<br>
