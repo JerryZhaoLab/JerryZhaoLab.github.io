@@ -4,7 +4,8 @@ title: Research
 ---
 ## 1. Heparan sulfate in brain health and disease.<br>
 Heparan sulfate (HS), a sugar molecule that covers the surface of all human cells, is associated with a series of brain disorders such as Alzheimer’s disease, Parkinson's disease, intellectual disability, and Kallmann syndrome. However, the mechanisms underlying these brain disorders and HS remain poorly understood, and current therapies are limited. Our long-term goal is to use mouse models and multidisciplinary approaches to reveal how HS dysfunction contributes to these brain disorders, with the hope to eventually develop a cure. We are currently focused on HS biosynthesis enzymes, particularly the three 6-O-sulfotransferases (HS6ST1-3). <br> 
-Fundings: <br>
+<br>
+**Fundings:** <br>
 The NIH National Institute of Neurological Disorders and Stroke (NINDS) <br>
 The Alzheimer’s Association <br>
 The Mizutani Foundation for Glycoscience (Japan) <br>
@@ -15,7 +16,8 @@ The Adele Smithers Parkinson’s Disease Center <br>
 
 ## 2. Long genes in brain health, disease, and evolution.<br>
 Protein-coding genes in the human genome vary in length, ranging from 0.1 kb to 2400 kb. Long genes (>100 kb) are enriched in the brain and are implicated in multiple human brain disorders, such as autism and Alzheimer's disease, but the underlying mechanisms are largely unknown. Our long-term goal is to use genomics, epigenetics, and mouse models to identify the regulation mechanisms of long genes in the brain and to reveal the etiology of long gene-associated brain disorders. We are particularly interested in the transcription, splicing, and evolution of long genes. <br>
-Fundings: <br>
+<br>
+**Fundings:** <br>
 None <br>
 <br>
 <img width="500" src="/img/Brain2.png" data-action="zoom"><br>
