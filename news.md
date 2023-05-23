@@ -11,7 +11,7 @@ permalink: /news/
 **05/21/2023:** Jerry attended the **NYITCOM Class of 2023 Commencement & Hooding Ceremony**. Three of our former trainees, Matan Kadosh, Brian Tang, and Saqib Chariwala officially obtained their doctor's degrees. **Congratulations, Dr. Kadosh, Dr. Tang, and Dr. Chariwala.** <br>
   <br>
 
-**04/17/2023:**  **Laiba** has been awarded the 2023 Summer Student Research Program Fellowship. **Congratulations, Laiba** <br>
+**04/17/2023:**  **Laiba** has been awarded the 2023 Summer Student Research Program Fellowship. **Congratulations, Laiba.** <br>
   <br>
   
 **04/01/2023:**  Our lab received the **2023 Research Grant Award** from the **Mizutani Foundation for Glycoscience (Japan)**. We greatly appreciate the generous support for our research from the **Mizutani Foundation**. <br>
