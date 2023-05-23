@@ -27,7 +27,7 @@ None <br>
 <br>
 **Publications:** <br>
 1). Ying-Tao Zhao, ... Zhaolan Zhou, Genome research, 2018 <br>
-2). Brian S Johnson*, Ying-Tao Zhao*, Maria Fasolino*, ... Zhaolan Zhou, Nature Medicine, 2017 <br>
+2). Brian Johnson, Ying-Tao Zhao, Maria Fasolino, ... Zhaolan Zhou, Nature Medicine, 2017 <br>
 3). Sohyun Moon, Ying-Tao Zhao, PLOS ONE, 2022 <br>
 4). Yura Kim, Mariam Naghavi, Ying-Tao Zhao, bioRxiv, 2020 <br>
 <br>
