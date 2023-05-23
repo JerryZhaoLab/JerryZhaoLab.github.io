@@ -11,6 +11,11 @@ The Alzheimer’s Association <br>
 The Mizutani Foundation for Glycoscience (Japan) <br>
 The Adele Smithers Parkinson’s Disease Center <br>
 <br>
+**Publications:** <br>
+1. Sohyun Moon, Ying-Tao Zhao, Glycobiology, 2021 <br>
+2. Sohyun Moon, Ying-Tao Zhao, Human Molecular Genetics, 2022 <br>
+<br>
+<br>
 <img width="500" src="/img/Brain1.png" data-action="zoom"><br>
 <br>
 
@@ -19,6 +24,12 @@ Protein-coding genes in the human genome vary in length, ranging from 0.1 kb to 
 <br>
 **Fundings:** <br>
 None <br>
+<br>
+**Publications:** <br>
+1. Ying-Tao Zhao, ... Zhaolan Zhou, Genome research, 2018 <br>
+2. Brian S Johnson*, Ying-Tao Zhao*, Maria Fasolino*, ... Zhaolan Zhou, Nature Medicine, 2017 <br>
+3. Sohyun Moon, Ying-Tao Zhao, PLOS ONE, 2022 <br>
+4. Yura Kim, Mariam Naghavi, Ying-Tao Zhao, bioRxiv, 2020 <br>
 <br>
 <img width="500" src="/img/Brain2.png" data-action="zoom"><br>
 <br>
