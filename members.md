@@ -13,7 +13,7 @@ yzhao47@nyit.edu<br>
   <br>
   BS, Economics, Nanjing University (2005)<br>
   PhD, Bioinformatics, Chinese Academy of Sciences (2010)<br>
-  Postdoc, Brain disorders, University of Pennsylvania<br>
+  Postdoctoral Fellow, Brain disorders, University of Pennsylvania<br>
 <br>
 
 
@@ -55,8 +55,10 @@ Mariam is in her third year of the seven-year combined Bachelor of Science and D
  <br>
 
  <br>
+ Laiba Ahmed<br>
 
- 
+ <br>
+
 <h3>Undergraduate Student </h3>
 <img width="300" src="/img/Mahima.jpg" data-action="zoom"><br>
 Mahima Parappurath<br>
@@ -65,6 +67,10 @@ Mahima Parappurath is in her fourth year as a B.S. Biology major at NYIT. Mahima
  <br>
 
 Zainab Mubasher<br>
+<br>
+Tiffany Tran<br>
+<br>
+Rianna Pannikodu<br>
 <br>
 <br>
 
