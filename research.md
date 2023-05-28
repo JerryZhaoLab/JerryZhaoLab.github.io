@@ -31,7 +31,7 @@ None <br>
 3). Sohyun Moon, Ying-Tao Zhao, PLOS ONE, 2022 <br>
 4). Yura Kim, Mariam Naghavi, Ying-Tao Zhao, bioRxiv, 2020 <br>
 <br>
-<img width="500" src="/img/Brain2.png" data-action="zoom"><br>
+<img width="500" src="/img/Long_Genes.png" data-action="zoom"><br>
 <br>
 
 <!-- 
