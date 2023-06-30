@@ -71,8 +71,6 @@ Mariam is in her third year of the seven-year combined Bachelor of Science and D
 
  <br>
 
- <br>
- Laiba Ahmed<br>
 
  <br>
 
