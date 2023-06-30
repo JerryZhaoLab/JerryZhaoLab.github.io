@@ -41,6 +41,12 @@ Sohyun got her PhD in molecular biotechnology from Konkuk University, South Kore
 
 <h3>Medical School Student </h3>
 
+<img width="300" src="/img/Laiba.jpg" data-action="zoom"><br>
+Laiba Ahmed<br>
+
+Laiba received her Bachelor’s degree in Biology and Psychology from Stony Brook University and is currently pursuing her medical degree at NYITCOM. With a passion for research, Laiba has joined this lab as part of the NYITCOM 2023 Summer Student Research Program. In the lab, Laiba is responsible for conducting experiments, analyzing data, and supporting other lab members. Although she has not decided on a specialty, Laiba hopes to pursue a career in academic medicine so that she may continue her involvement in mentorship and research. In her free time, she enjoys playing tennis, embroidering, and cooking. <br>
+
+ <br>
 <img width="300" src="/img/Yura.JPG" data-action="zoom"><br>
 Yura Kim<br>
 
