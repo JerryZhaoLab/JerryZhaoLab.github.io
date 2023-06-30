@@ -37,16 +37,15 @@ Sohyun got her PhD in molecular biotechnology from Konkuk University, South Kore
  <br>
  <br>
 
-<img width="300" src="/img/Sohyun.png" data-action="zoom"><br>
-Sohyun Moon<br>
-Postdoctoral Fellow<br>
-smoon01@nyit.edu<br>
+<img width="300" src="/img/Christina.jpg" data-action="zoom"><br>
+Christina Gonzalez<br>
+Technician<br>
+cgonza41@nyit.edu<br>
   <br>
-  BS, Daegu Hanni University, South Korea (2011)<br>
-  PhD, Konkuk University, Seoul, South Korea (2016)<br>
+  BS, John Jay College (2022)<br>
 <br> 
 
-Sohyun got her PhD in molecular biotechnology from Konkuk University, South Korea. After graduation, she worked as a research professor at the Dongguk University and as a postdoc at the Korea Research Institute of Bioscience and Biotechnology (KRIBB). Before joining NYIT, Sohyun was a postdoc at the SUNY downstate medical center studying ECM proteins, angiogenesis, and neovascular diseases. In the Jerry Zhao Lab, Sohyun is interested in integrating mouse genetics, genomics, and bioinformatics approaches to study the role of long genes in the brain. <br>
+I currently have my bachelor’s degree in Cell and Molecular Biology from John Jay College and am planning on going to medical school in a few years. Eventually, I’d like to conduct my own research and help change peoples’ lives for the better. I have many hobbies, from gardening and working out to hanging with my dog. I look forward to working in Jerry’s lab. <br>
 
  <br>
  <br>
