@@ -37,7 +37,19 @@ Sohyun got her PhD in molecular biotechnology from Konkuk University, South Kore
  <br>
  <br>
 
+<img width="300" src="/img/Sohyun.png" data-action="zoom"><br>
+Sohyun Moon<br>
+Postdoctoral Fellow<br>
+smoon01@nyit.edu<br>
+  <br>
+  BS, Daegu Hanni University, South Korea (2011)<br>
+  PhD, Konkuk University, Seoul, South Korea (2016)<br>
+<br> 
 
+Sohyun got her PhD in molecular biotechnology from Konkuk University, South Korea. After graduation, she worked as a research professor at the Dongguk University and as a postdoc at the Korea Research Institute of Bioscience and Biotechnology (KRIBB). Before joining NYIT, Sohyun was a postdoc at the SUNY downstate medical center studying ECM proteins, angiogenesis, and neovascular diseases. In the Jerry Zhao Lab, Sohyun is interested in integrating mouse genetics, genomics, and bioinformatics approaches to study the role of long genes in the brain. <br>
+
+ <br>
+ <br>
 
 <h3>Medical School Student </h3>
 
