@@ -10,7 +10,7 @@ permalink: /news/
 # <span style="color:tomato;">2023</span>
 
 **08/05/2023:**  A joint **BBQ** with the Cai Lab. <br> 
-<img width="400" src="/img/BBQ2023.png" data-action="zoom">
+<img width="400" src="/img/BBQ2023.png">
   <br>
   
 **06/12/2023:**  **Christina Gonzalez** joined the Jerry Zhao Lab as a Research Technician. **Welcome Christina!** <br>
