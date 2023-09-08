@@ -8,6 +8,14 @@ permalink: /news/
   <br>
 
 # <span style="color:tomato;">2023</span>
+
+**08/05/2023:**  A joint **BBQ** with the Cai Lab. <br> 
+<img width="200" src="/img/BBQ2023.png" data-action="zoom">
+  <br>
+  
+**06/12/2023:**  **Christina Gonzalez** joined the Jerry Zhao Lab as a Research Technician. **Welcome Christina!** <br>
+  <br>
+
 **05/21/2023:** Jerry attended the **NYITCOM Class of 2023 Commencement & Hooding Ceremony**. Three of our former trainees, Matan Kadosh, Brian Tang, and Saqib Chariwala officially obtained their doctor's degrees. **Congratulations, Dr. Kadosh, Dr. Tang, and Dr. Chariwala.** <br>
   <br>
 
