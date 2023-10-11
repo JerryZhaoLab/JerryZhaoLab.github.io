@@ -9,7 +9,7 @@ permalink: /news/
 
 # <span style="color:tomato;">2023</span>
 
-**09/10/2023:**  After the maintenance and updates, our webserver of long genes, the **LongGeneDB**, is up and running again. **LongGeneDB** <a href="https://longgenedb.org">(link)</a>. **Congratulations, Sohyun.**<br>
+**09/10/2023:**  After the maintenance and updates, our webserver for long genes, the **LongGeneDB**, is up and running again. **LongGeneDB** <a href="https://longgenedb.org">(link)</a>. <br>
   <br>
   
 **08/25/2023:**  Sohyun has another first-author paper, with the collaboration of the Abdelfattah El Ouaamari lab at NYMC, titled “**Transcriptome and Secretome Profiling of Sensory Neurons Reveals Sex Differences in Pathways Relevant to Insulin Sensing and Insulin Secretion**”, published today in **FASEB Journal** <a href="https://faseb.onlinelibrary.wiley.com/doi/10.1096/fj.202300941R">(link)</a>. **Congratulations, Sohyun.**<br>
