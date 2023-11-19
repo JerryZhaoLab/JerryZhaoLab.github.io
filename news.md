@@ -9,6 +9,10 @@ permalink: /news/
 
 # <span style="color:tomato;">2023</span>
 
+**11/17/2030:** Laiba presented at the 2023 NYITCOM Research Symposium. **Congratulations, Laiba.** <br>
+<img width="400" src="/img/poster.jpg" data-action="zoom">
+<br>
+
 **09/10/2023:**  After the maintenance and updates, our webserver for long genes, the **LongGeneDB**, is up and running again. **LongGeneDB** <a href="https://longgenedb.org">(link)</a>. <br>
   <br>
   
