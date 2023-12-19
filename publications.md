@@ -14,6 +14,10 @@ Yura Kim, Mariam Naghavi, ***Ying-Tao Zhao***<br>
 ***bioRxiv***, 2020 ([bioRxiv](https://doi.org/10.1101/2020.09.08.281220)) <br>
 <br>
 <br>
+***25.*** _Knockout of the intellectual disability-linked gene Hs6st2 in mice decreases heparan sulfate 6-O-sulfation, impairs dendritic spines of hippocampal neurons, and affects memory_<br>
+***Sohyun Moon***, Hiu Ham Lee, Stephanie Archer-Hartmann, Naoko Nagai, Zainab Mubasher, Mahima Parappurath, Laiba Ahmed, Raddy L Ramos, Koji Kimata, Parastoo Azadi, Weikang Cai, ***Jerry Yingtao Zhao***<br>
+***Glycobiology***, 2023 ([link](https://doi.org/10.1093/glycob/cwad095))<br>
+<br>
 ***24.*** _Transcriptome and secretome profiling of sensory neurons reveals sex differences in pathways relevant to insulin sensing and insulin secretion_<br>
 ***Sohyun Moon***, Lamyaa Alsarkhi, Tai-Tu Lin, Ryota Inoue, Azeddine Tahiri, Cecilia Colson, Weikang Cai, Jun Shirakawa, Wei-Jun Qian, ***Jerry Yingtao Zhao***, Abdelfattah El Ouaamari<br>
 ***FASEB Journal***, 2023 ([link](https://faseb.onlinelibrary.wiley.com/doi/10.1096/fj.202300941R))<br>
