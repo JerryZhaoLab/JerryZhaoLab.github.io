@@ -37,18 +37,7 @@ Sohyun got her PhD in molecular biotechnology from Konkuk University, South Kore
  <br>
  <br>
 
-<img width="300" src="/img/Christina.jpg" data-action="zoom"><br>
-Christina Gonzalez<br>
-Technician<br>
-cgonza41@nyit.edu<br>
-  <br>
-  BS, John Jay College (2022)<br>
-<br> 
 
-I currently have my bachelor’s degree in Cell and Molecular Biology from John Jay College and am planning on going to medical school in a few years. Eventually, I’d like to conduct my own research and help change peoples’ lives for the better. I have many hobbies, from gardening and working out to hanging with my dog. I look forward to working in Jerry’s lab. <br>
-
- <br>
- <br>
 
 <h3>Medical School Student </h3>
 
@@ -58,35 +47,17 @@ Laiba Ahmed<br>
 Laiba received her Bachelor’s degree in Biology and Psychology from Stony Brook University and is currently pursuing her medical degree at NYITCOM. With a passion for research, Laiba has joined this lab as part of the NYITCOM 2023 Summer Student Research Program. In the lab, Laiba is responsible for conducting experiments, analyzing data, and supporting other lab members. Although she has not decided on a specialty, Laiba hopes to pursue a career in academic medicine so that she may continue her involvement in mentorship and research. In her free time, she enjoys playing tennis, embroidering, and cooking. <br>
 
  <br>
-<img width="300" src="/img/Yura.JPG" data-action="zoom"><br>
-Yura Kim<br>
-
-Yura is an undergraduate student at New York Institute of Technology in the College of Arts and Sciences. She is currently finishing her third year of the 7 year combined degree program that awards a Bachelor of Science in Life Sciences and a Doctor of Osteopathic Medicine. Yura hopes to complete her undergraduate studies and matriculate into NYITCOM this upcoming Fall of 2020. At NYIT, Yura took many courses concentrated in the core sciences including biochemistry, physiology, microbiology, genetics, and more. She recently finished a biomedical research course where she learned about TERM (tissue engineering and regenerative medicine) and the various lab techniques used in research. In her free time, Yura enjoys volunteering and advocating for children with disabilities. She looks forward to learning more about long genes and gaining research experience. <br>
-
- <br>
-<img width="300" src="/img/Mariam.JPG" data-action="zoom"><br>
-Mariam Naghavi<br>
-
-Mariam is in her third year of the seven-year combined Bachelor of Science and Doctor of Osteopathic Medicine studies at NYIT / NYIT College of Osteopathic Medicine in Old Westbury. She hopes to complete her undergraduate studies in the Spring of 2020 and matriculate into the medical school portion of her program this Fall. She has been exposed to a wide variety of courses during her undergraduate studies, ranging from pharmacology to comparative anatomy. In her free time, she enjoys getting involved with the community, watching cooking shows, and snuggling with her dogs. Mariam is eager to collaborate and looks forward to learning more about biomedical research. <br>
-
- <br>
 
 
  <br>
 
 <h3>Undergraduate Student </h3>
-<img width="300" src="/img/Mahima.jpg" data-action="zoom"><br>
-Mahima Parappurath<br>
 
-Mahima Parappurath is in her fourth year as a B.S. Biology major at NYIT. Mahima is from Philadelphia and enjoys several hobbies such as dancing and playing sports. Mahima looks forward to gaining more research experience and attending medical school in the future. <br>
- <br>
+Moontachier Taseen<br>
+<br>
+Rebecca Yusupov<br>
+<br>
 
-Zainab Mubasher<br>
-<br>
-Tiffany Tran<br>
-<br>
-Rianna Pannikodu<br>
-<br>
 <br>
 
 
@@ -107,6 +78,16 @@ Sana Naeem (NYITCOM Medical School Student, 2022-2022)<br>
  <br>
 Mansi Patel (NYIT Undergraduate Student, 2020-2022)<br>
  <br>
- 
+Christina Gonzalez (Research Technician, 2023-2023)<br>
+ <br>
+Mahima Parappurath (NYIT Undergraduate Student, 2022-2023)<br>
+ <br>
+Zainab Mubasher (NYIT Undergraduate Student, 2022-2023)<br>
+ <br>
+Tiffany Tran (NYIT Undergraduate Student, 2023-2023)<br>
+ <br>
+Rianna Pannikodu (NYIT Undergraduate Student, 2023-2023)<br>
+ <br>
+
  
  
