@@ -61,7 +61,6 @@ Moontachier Taseen<br>
 <br>
 <img width="300" src="/img/Rebecca.jpeg" data-action="zoom"><br>
 Rebecca Yusupov<br>
-
 Rebecca is a third-year undergraduate student at the New York Institute of Technology in the Old Westbury Campus. She is on the pre-med route, with anticipation of attending NYITCOM in 2024. In the Jerry Zhao lab, Rebecca is interested in studying the role of long genes in the expression of neurological diseases such as Alzheimer's disease and Parkinson's disease. In her free time, she enjoys hobbies such as painting, cooking, and baking. <br>
 <br>
 
