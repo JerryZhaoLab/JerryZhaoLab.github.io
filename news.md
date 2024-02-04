@@ -18,7 +18,7 @@ permalink: /news/
 
 # <span style="color:tomato;">2023</span>
 
-**11/28/2023:**  Thanks to Sohyun and our wonderful collaborators. Our paper, titled “**Knockout of the intellectual disability-linked gene Hs6st2 in mice decreases heparan sulfate 6-O-sulfation, impairs dendritic spines of hippocampal neurons, and affects memory**”, published today in **Glycobiology** <a href="https://doi.org/10.1093/glycob/cwad095">(link)</a>. **Congratulations, Sohyun.**<br>
+**11/28/2023:**  Thanks to Sohyun and our wonderful collaborators. Our paper, titled “**Knockout of the intellectual disability-linked gene Hs6st2 in mice decreases heparan sulfate 6-O-sulfation, impairs dendritic spines of hippocampal neurons, and affects memory**”, published today in **Glycobiology** <a href="https://doi.org/10.1093/glycob/cwad095">(link)</a>. <a href="/img/Moon_2023_Glycobiology.pdf" download>Download</a> **Congratulations, Sohyun.**<br>
   <br>
   
 **11/17/2023:** Laiba presented at the 2023 NYITCOM Research Symposium. **Congratulations, Laiba.** <br>
