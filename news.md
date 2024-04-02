@@ -12,6 +12,7 @@ permalink: /news/
 **03/27/2024:** Faculty and Scholar Luncheon at the de Seversky Mansion. <br>
 <img width="400" src="/img/Lunch.JPG" data-action="zoom">
 <br>
+  <br>
 
 **01/10/2024:**  **Rebecca Yusupov**, an NYIT undergraduate student, joined the Jerry Zhao Lab. **Welcome Rebecca!** <br>
   <br>
