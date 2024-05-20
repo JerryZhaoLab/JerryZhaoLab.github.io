@@ -6,7 +6,10 @@ permalink: /news/
 
 # News @ the Jerry Zhao Lab<br>
   <br>
-
+  
+**05/01/2024:**  **Lily Fang Wang**, a volunteer, joined the Jerry Zhao Lab. **Welcome Lily!** <br>
+  <br>
+  
 # <span style="color:tomato;">2024</span>
 
 **03/27/2024:** Faculty and Scholar Luncheon at the de Seversky Mansion. <br>
