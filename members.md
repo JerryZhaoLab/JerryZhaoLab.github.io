@@ -70,6 +70,10 @@ Rebecca is a third-year undergraduate student at the New York Institute of Techn
 <h3>Alumni</h3>
 Austin Meadows (Research Technician, 2020)<br>
  <br>
+Yura Kim (NYIT Undergraduate Student, 2020-2020)<br>
+ <br>
+Mariam Naghavi (NYIT Undergraduate Student, 2020-2020)<br>
+ <br>
 Matan Kadosh (NYITCOM Medical School Student, 2020-2021)<br>
  <br>
 Brian Tang  (NYITCOM Medical School Student, 2020-2021)<br>
