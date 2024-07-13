@@ -9,7 +9,7 @@ permalink: /news/
   
 
 # <span style="color:tomato;">2024</span>
-**07/11/2024:**  **Jerry** gave an invited talk at the **2024 Proteoglycans Gordon Research Conference.** <br>
+**07/11/2024:**  **Jerry** gave an invited talk at the **2024 Proteoglycans Gordon Research Conference.** Happy to catch up with old friends and made new friends during the GRC meeting.<br>
   <br>
 
 **07/09/2024:**  **Sohyun** gave a presentation on our Hs6st2 project at the **2024 Proteoglycans Gordon Research Conference.** **Good job, Sohyun!** <br>
