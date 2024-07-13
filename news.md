@@ -9,6 +9,16 @@ permalink: /news/
   
 
 # <span style="color:tomato;">2024</span>
+**07/11/2024:**  **Jerry** gave an invited talk at the **2024 Proteoglycans Gordon Research Conference.** <br>
+  <br>
+
+**07/09/2024:**  **Sohyun** gave a presentation on our Hs6st2 project at the **2024 Proteoglycans Gordon Research Conference.** **Good job, Sohyun!** <br>
+  <br>
+
+**06/30/2024:** **Farewell Friends!** <br>
+<img width="600" src="/img/farewell.jpg" data-action="zoom">
+<br>
+  <br>
 
 **05/01/2024:**  **Lily Fang Wang**, a volunteer, joined the Jerry Zhao Lab. **Welcome Lily!** <br>
   <br>
