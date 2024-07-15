@@ -15,6 +15,9 @@ permalink: /news/
 **07/09/2024:**  **Sohyun** gave a presentation on our Hs6st2 project at the **2024 Proteoglycans Gordon Research Conference.** **Good job, Sohyun!** <br>
   <br>
 
+**07/01/2024:**  **Hiu Ham (Ada) Lee**, a technician, joined the Jerry Zhao Lab. **Welcome Ada!** <br>
+  <br>
+  
 **06/30/2024:** **Farewell Friends/Collaborators!** <br>
 <img width="600" src="/img/farewell.jpg" data-action="zoom">
 <br>
