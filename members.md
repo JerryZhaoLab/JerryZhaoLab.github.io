@@ -33,7 +33,14 @@ smoon01@nyit.edu<br>
 <br> 
 
 Sohyun got her PhD in molecular biotechnology from Konkuk University, South Korea. After graduation, she worked as a research professor at the Dongguk University and as a postdoc at the Korea Research Institute of Bioscience and Biotechnology (KRIBB). Before joining NYIT, Sohyun was a postdoc at the SUNY downstate medical center studying ECM proteins, angiogenesis, and neovascular diseases. In the Jerry Zhao Lab, Sohyun is interested in integrating mouse genetics, genomics, and bioinformatics approaches to study the role of long genes in the brain. <br>
-
+ <br>
+ <br>
+ 
+Hiu Ham (Ada) Lee<br>
+Research Technician<br>
+hlee37@nyit.edu<br>
+  <br>
+  
  <br>
  <br>
 
