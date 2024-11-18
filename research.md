@@ -14,7 +14,7 @@ The Adele Smithers Parkinson’s Disease Center <br>
 **Publications:** <br>
 1). Sohyun Moon, Ying-Tao Zhao, Glycobiology, 2021 <br>
 2). Sohyun Moon, Ying-Tao Zhao, Human Molecular Genetics, 2022 <br>
-3). Sohyun Moon, ... Jerry Yingtao Zhao, Glycobiology, 2023 <br>
+3). Sohyun Moon, ... Jerry Yingtao Zhao, Glycobiology, 2024 <br>
 <br>
 <br>
 <img width="500" src="/img/Brain1.png" data-action="zoom"><br>
