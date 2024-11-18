@@ -12,6 +12,10 @@ permalink: /news/
 **10/22/2024:**  **A lovely Pumpkin Day!** <br>
 <img width="600" src="/img/2024Pumpkin.jpg" data-action="zoom">
   <br>
+  <br>
+
+**10/15/2024:**  The collaboration with the Abdelfattah El Ouaamari lab at New York Medical College titled “**Vagal sensory neuron-derived FGF3 controls insulin secretion**” is published today in **Developmental Cell** <a href="https://10.1016/j.devcel.2024.09.016">(link)</a>. **Congratulations, Sohyun.**<br>
+  <br>
   
 **09/16/2024:**  **Lisa Cheung**, a technician, joined the Jerry Zhao Lab. **Welcome Lisa!** <br>
   <br>
