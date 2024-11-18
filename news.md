@@ -9,6 +9,13 @@ permalink: /news/
   
 
 # <span style="color:tomato;">2024</span>
+**10/22/2024:**  **A lovely Pumpkin Day!** <br>
+<img width="600" src="/img/2024Pumpkin.jpg" data-action="zoom">
+  <br>
+  
+**09/16/2024:**  **Lisa Cheung**, a technician, joined the Jerry Zhao Lab. **Welcome Lisa!** <br>
+  <br>
+  
 **07/11/2024:**  **Jerry** gave an invited talk at the **2024 Proteoglycans Gordon Research Conference.** Happy to catch up with old friends and made new friends during the GRC meeting.<br>
   <br>
 
