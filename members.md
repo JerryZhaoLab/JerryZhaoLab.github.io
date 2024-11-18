@@ -25,7 +25,7 @@ Jerry was an undergraduate at Nanjing University, where he worked on models of e
 <h3>Research Scientist</h3>
 <img width="300" src="/img/Sohyun.png" data-action="zoom"><br>
 Sohyun Moon<br>
-Postdoctoral Fellow<br>
+Instructor<br>
 smoon01@nyit.edu<br>
   <br>
   BS, Daegu Hanni University, South Korea (2011)<br>
