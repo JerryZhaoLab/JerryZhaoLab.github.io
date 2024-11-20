@@ -51,11 +51,15 @@ Ada received her master’s degree in medical biology at LIU-post 2015. She join
  <br>
  
 <br>
+<img width="300" src="/img/Lisa.png" data-action="zoom"><br>
 Lisa Cheung<br>
 Research Assistant<br>
 lcheun03@nyit.edu<br>
   <br>
-  
+  BS, Washington University in St. Louis (2024)<br>
+<br> 
+
+ Lisa received her bachelor’s degree in biology and anthropology from Washington University in St. Louis as a Pre-med student. Having graduated from WashU in May of 2024, she is pursuing research at the Jerry Zhao lab for her gap years before attending medical school! In the lab, Lisa’s responsibilities as a research assistant include but are not limited to mouse line genotyping, cell culture work, animal care, assistance in experimental procedures and supporting her fellow lab members. Lisa is an aspiring physician and hopes to continue conducting innovative research in the future. In her free time, she enjoys working out, working with individuals with Down’s syndrome, and trying new restaurants. <br> 
  <br>
  <br>
 
