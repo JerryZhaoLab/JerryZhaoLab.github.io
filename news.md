@@ -6,7 +6,11 @@ permalink: /news/
 
 # News @ the Jerry Zhao Lab<br>
   <br>
-  
+
+# <span style="color:tomato;">2025</span>
+**01/01/2025:**  **Hello 2025!** <br>
+  <br>
+  <br>
 
 # <span style="color:tomato;">2024</span>
 **10/22/2024:**  **A lovely Pumpkin Day!** <br>
