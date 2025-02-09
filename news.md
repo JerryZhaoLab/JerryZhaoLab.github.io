@@ -8,7 +8,7 @@ permalink: /news/
   <br>
 
 # <span style="color:tomato;">2025</span>
-**02/08/2025:**  With a deep budget cut of NSF announced today, our grant application is **rejected** by NSF today. <br>
+**02/08/2025:**  With a deep budget cut of NSF announced today, our grant application was **rejected** by NSF today. <br>
   <br>
   <br>
 
