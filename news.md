@@ -21,8 +21,8 @@ But thy eternal summer shall not fade,<br>
 Nor lose possession of that fair thou ow’st;<br>
 Nor shall death brag thou wander’st in his shade,<br>
 When in eternal lines to time thou grow’st:<br>
-   So long as men can breathe or eyes can see,<br>
-   So long lives this, and this gives life to thee. <br>
+&nbsp;&nbsp;&nbsp;So long as men can breathe or eyes can see,<br>
+&nbsp;&nbsp;&nbsp;So long lives this, and this gives life to thee. <br>
   <br>
   <br>
 
