@@ -58,13 +58,6 @@ Rebecca is a first-year medical school student at New York Institute of Technolo
  <br>
  <br>
 
-<h3>Undergraduate Student </h3>
-
-Moontachier Taseen<br>
-<br>
-<br>
-
-
 <br>
 
 <br>
@@ -104,6 +97,8 @@ Tiffany Tran (NYIT Undergraduate Student, 2023-2023)<br>
 Rianna Pannikodu (NYIT Undergraduate Student, 2023-2023)<br>
  <br>
 Laiba Ahmed (NYITCOM Medical School Student, 2023-2024)<br>
+ <br> 
+Moontachier Taseen (NYIT Undergraduate Student, 2024-2024)<br>
  <br> 
 Sohyun Moon (Postdoc, Instructor, 2020-2025)<br>
  <br> 
