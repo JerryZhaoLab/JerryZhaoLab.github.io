@@ -8,7 +8,7 @@ permalink: /members/
 
 <img width="300" src="/img/Jerry01_400.png" data-action="zoom"><br>
 Jerry Yingtao Zhao<br>
-Assistant Professor<br>
+Associate Professor<br>
 yzhao47@nyit.edu<br>
   <br>
   BS, Economics, Nanjing University (2005)<br>
@@ -20,22 +20,6 @@ yzhao47@nyit.edu<br>
 Jerry was an undergraduate at Nanjing University, where he worked on models of economic growth. He was inspired by the Human Genome Project and moved to Beijing in 2005 to pursue his PhD in Bioinformatics at the Chinese Academy of Sciences. There, he worked with Dr. Xiu-Jie Wang developing computational methods to characterize non-coding RNAs. In September 2011, Jerry joined Joe Zhou's lab at the University of Pennsylvania, where he investigated the role of epigenetic mechanisms in the etiology of Rett syndrome and Autism Spectrum Disorder. Jerry started his independent career as an Assistant Professor in the Department of Biomedical Sciences at NYIT in July 2019. <br>
 
  <br>
-
-
-<h3>Research Scientist</h3>
-<img width="300" src="/img/Sohyun.png" data-action="zoom"><br>
-Sohyun Moon<br>
-Instructor<br>
-smoon01@nyit.edu<br>
-  <br>
-  BS, Daegu Hanni University, South Korea (2011)<br>
-  PhD, Konkuk University, Seoul, South Korea (2016)<br>
-<br> 
-
-Sohyun got her PhD in molecular biotechnology from Konkuk University, South Korea. After graduation, she worked as a research professor at the Dongguk University and as a postdoc at the Korea Research Institute of Bioscience and Biotechnology (KRIBB). Before joining NYIT, Sohyun was a postdoc at the SUNY downstate medical center studying ECM proteins, angiogenesis, and neovascular diseases. In the Jerry Zhao Lab, Sohyun is interested in integrating mouse genetics, genomics, and bioinformatics approaches to study the role of long genes in the brain. <br>
- <br>
- <br>
-
 
 <img width="300" src="/img/Ada.JPG" data-action="zoom"><br>
 Hiu Ham (Ada) Lee<br>
@@ -121,6 +105,7 @@ Rianna Pannikodu (NYIT Undergraduate Student, 2023-2023)<br>
  <br>
 Laiba Ahmed (NYITCOM Medical School Student, 2023-2024)<br>
  <br> 
-
+Sohyun Moon (Postdoc, Instructor, 2020-2025)<br>
+ <br> 
  
  
