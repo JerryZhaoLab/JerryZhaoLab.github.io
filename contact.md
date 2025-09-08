@@ -7,7 +7,7 @@ permalink: /contact/
  <br>
  
 **Jerry Zhao**<br>
-Assistant Professor<br>
+Associate Professor<br>
 Department of Biomedical Sciences<br>
 New York Institute of Technology<br>
 College of Osteopathic Medicine<br>
