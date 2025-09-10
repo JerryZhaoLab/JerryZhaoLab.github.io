@@ -7,6 +7,9 @@ permalink: /news/
 # News @ the Jerry Zhao Lab<br>
   <br>
 
+**08/12/2025:**  **Esther Moshe**, a medical school student, joined the Jerry Zhao Lab. **Welcome Esther!** <br>
+  <br>
+  
 # <span style="color:tomato;">2025</span>
 **05/01/2025:**  <br> 
 Shall I compare thee to a summer’s day?<br>
