@@ -59,6 +59,13 @@ Rebecca is a first-year medical school student at New York Institute of Technolo
  <br>
  <br>
 
+<img width="300" src="/img/Esther.jpeg" data-action="zoom"><br>
+Esther Moshe<br>
+Esther a second year med student at NYITCOM. She graduated from NYIT with a BS and am pursuing my MBA at NYIT as well. In her free time she loves to bake sour dough, read, and travel!  <br>
+
+ <br>
+ <br>
+ 
 <br>
 
 <br>
