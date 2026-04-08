@@ -65,9 +65,30 @@ Esther a second year med student at NYITCOM. She graduated from NYIT with a BS a
 
  <br>
  <br>
+
+Allen Li<br>
+
+
+ <br>
+ <br>
  
 <br>
+<h3>Undergraduate Student </h3>
 
+<img width="300" src="/img/Brianna.jpg" data-action="zoom"><br>
+Brianna Han<br>
+Brianna Han is a first-year BS/DO student at the New York Institute of Technology. She likes exploring new experiences and learning as much as possible, particularly in neuroscience and cancer research. In her free time, she enjoys baking, playing games, and spending time with her dog.  <br>
+
+ <br>
+ <br>
+
+<img width="300" src="/img/Nishi.jpeg" data-action="zoom"><br>
+Nishi Banker<br>
+Nishi is a second-year undergraduate BS/DO student at New York Institute of Technology. She is interested in becoming an Emergency Medicine physician. In her free time, she likes dancing and baking.  <br>
+
+ <br>
+ <br>
+ 
 <br>
 
 <br>
