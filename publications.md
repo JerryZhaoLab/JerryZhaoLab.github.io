@@ -14,11 +14,15 @@ Yura Kim, Mariam Naghavi, ***Ying-Tao Zhao***<br>
 ***bioRxiv***, 2020 ([bioRxiv](https://doi.org/10.1101/2020.09.08.281220)) <br>
 <br>
 <br>
+***27.*** _SOX2 commands LIM homeobox transcription factors in choroid plexus development and tumorigenesis_<br>
+Lukas J Faltings, Fengjuan Lin, Mariam Zahran, Heena Jalili, Anjali Siluveru, Mahek Chaudry, Leah M Wachsmuth, Navjot Guru, Melanie Schoof, Ping Cao, Yuan Huang, Noreen Mian, ***Sohyun Moon***, Asmaa Zahran, Kristen Green, Siddhi Modi, Maheen Umer, James Q Virga, ***Ying-Tao Zhao***, Ulrich Schüller, Qun Li, Haotian Zhao<br>
+***Neuro-Oncology***, 2025 ([link](https://pubmed.ncbi.nlm.nih.gov/40128799/)) <br>
+<br>
 ***26.*** _Vagal sensory neuron-derived FGF3 controls insulin secretion_<br>
 Azeddine Tahiri, Ayman Youssef, Ryota Inoue, ***Sohyun Moon***, Lamyaa Alsarkhi, Laila Berroug, Xuan Thi Anh Nguyen, Le Wang, Hyokjoon Kwon, Zhiping P Pang, ***Jerry Yingtao Zhao***, Jun Shirakawa, Luis Ulloa, Abdelfattah El Ouaamari<br>
 ***Developmental Cell***, 2024 ([link](https://pubmed.ncbi.nlm.nih.gov/39413782/)) <br>
 <br>
-<br>***25.*** _Knockout of the intellectual disability-linked gene Hs6st2 in mice decreases heparan sulfate 6-O-sulfation, impairs dendritic spines of hippocampal neurons, and affects memory_<br>
+***25.*** _Knockout of the intellectual disability-linked gene Hs6st2 in mice decreases heparan sulfate 6-O-sulfation, impairs dendritic spines of hippocampal neurons, and affects memory_<br>
 Sohyun Moon, Hiu Ham Lee, Stephanie Archer-Hartmann, Naoko Nagai, Zainab Mubasher, Mahima Parappurath, Laiba Ahmed, Raddy L Ramos, Koji Kimata, Parastoo Azadi, Weikang Cai, ***Jerry Yingtao Zhao***<br>
 ***Glycobiology***, 2024 ([link](https://doi.org/10.1093/glycob/cwad095)) <a href="/img/Moon_2023_Glycobiology.pdf" download>Download</a> <br>
 <br>
