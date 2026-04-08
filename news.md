@@ -8,8 +8,19 @@ permalink: /news/
   <br>
 
   
+# <span style="color:tomato;">2026</span>
+
+**01/21/2026:**  **Nishi Banker**, a NYIT Undergraduate student, joined the Jerry Zhao Lab. **Welcome Nishi!** <br>
+  <br>
+  
 # <span style="color:tomato;">2025</span>
 
+**12/27/2025:**  **Allen Li**, a medical school student, joined the Jerry Zhao Lab. **Welcome Allen!** <br>
+  <br>
+  
+**10/01/2025:**  **Brianna Han**, a NYIT Undergraduate student, joined the Jerry Zhao Lab. **Welcome Brianna!** <br>
+  <br>
+  
 **08/12/2025:**  **Esther Moshe**, a medical school student, joined the Jerry Zhao Lab. **Welcome Esther!** <br>
   <br>
 
