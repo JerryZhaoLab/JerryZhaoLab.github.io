@@ -10,6 +10,9 @@ permalink: /news/
   
 # <span style="color:tomato;">2026</span>
 
+**04/07/2026:**  **Allen** has been awarded the 2026 Summer Student Research Fellowship. **Congratulations, Allen.** <br>
+  <br>
+  
 **01/21/2026:**  **Nishi Banker**, a NYIT Undergraduate student, joined the Jerry Zhao Lab. **Welcome Nishi!** <br>
   <br>
   
