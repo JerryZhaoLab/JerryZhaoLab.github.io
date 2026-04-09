@@ -65,9 +65,10 @@ Esther a second year med student at NYITCOM. She graduated from NYIT with a BS a
 
  <br>
  <br>
-
+ 
+<img width="300" src="/img/Allen.jpeg" data-action="zoom"><br>
 Allen Li<br>
-
+Allen Li is a first-year medical student at NYITCOM. He graduated from Hunter College-CUNY with a BA. In the Zhao lab, Allen is involved with immunostaining and imaging, exploring the effects of astrocytes and microglia on traumatic brain injury. In his free time, Allen enjoys watching competitive cooking shows and playing games with friends. <br>
 
  <br>
  <br>
