@@ -10,7 +10,7 @@ permalink: /news/
   
 # <span style="color:tomato;">2026</span>
 
-**06/26/2026:**  **Lisa** left the Jerry Zhao Lab and begins her medical school journey today. **Good Luck, Lisa!** <br>
+**06/26/2026:**  **Lisa** left the Jerry Zhao Lab and begins her medical school journey today. **Good Luck, Lisa.** <br>
   <br>
 
 **04/07/2026:**  **Allen** has been awarded the 2026 Summer Student Research Fellowship. **Congratulations, Allen.** <br>
