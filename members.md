@@ -35,19 +35,6 @@ Ada received her master’s degree in medical biology at LIU-post 2015. She join
  <br>
  <br>
  
-<br>
-<img width="300" src="/img/Lisa.png" data-action="zoom"><br>
-Lisa Cheung<br>
-Research Assistant<br>
-lcheun03@nyit.edu<br>
-  <br>
-  BS, Washington University in St. Louis (2024)<br>
-<br> 
-
- Lisa received her bachelor’s degree in biology and anthropology from Washington University in St. Louis as a Pre-med student. Having graduated from WashU in May of 2024, she is pursuing research at the Jerry Zhao lab for her gap years before attending medical school! In the lab, Lisa’s responsibilities as a research assistant include but are not limited to mouse line genotyping, cell culture work, animal care, assistance in experimental procedures and supporting her fellow lab members. Lisa is an aspiring physician and hopes to continue conducting innovative research in the future. In her free time, she enjoys working out, working with individuals with Down’s syndrome, and trying new restaurants. <br> 
- <br>
- <br>
-
 
 
 <h3>Medical School Student </h3>
@@ -72,7 +59,22 @@ Allen Li is a first-year medical student at NYITCOM. He graduated from Hunter Co
 
  <br>
  <br>
- 
+
+<br>
+<h3>Graduate Student </h3>
+
+<img width="300" src="/img/Amanda.jpg" data-action="zoom"><br>
+Amanda Chiu <br>
+Amanda is a biomedical science master’s student at New York Institute of Technology. She graduated from the University of Washington with a BS. In the Jerry Zhao lab, Amanda is interested in studying changes in cell death and perineuronal nets during traumatic brain injury scarring and repair. In her free time, Amanda enjoys hiking, cooking, and traveling.  <br>
+
+ <br>
+ <br>
+
+Mercedes Coppola <br>
+
+ <br>
+ <br>
+
 <br>
 <h3>Undergraduate Student </h3>
 
@@ -83,12 +85,7 @@ Brianna Han is a first-year BS/DO student at the New York Institute of Technolog
  <br>
  <br>
 
-<img width="300" src="/img/Nishi.jpeg" data-action="zoom"><br>
-Nishi Banker<br>
-Nishi is a second-year undergraduate BS/DO student at New York Institute of Technology. She is interested in becoming an Emergency Medicine physician. In her free time, she likes dancing and baking.  <br>
 
- <br>
- <br>
  
 <br>
 
@@ -132,5 +129,9 @@ Moontachier Taseen (NYIT Undergraduate Student, 2024-2024)<br>
  <br> 
 Sohyun Moon (Postdoc, Instructor, 2020-2025)<br>
  <br> 
- 
+Nishi Banker (NYIT Undergraduate Student, 2026-2026)<br>
+ <br> 
+Lisa Cheung (Technician, 2024-2026) <br>
+ <br> 
+
  
