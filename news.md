@@ -13,6 +13,9 @@ permalink: /news/
 **09/18/2026:**  **Amanda Chiu** and **Mercedes Coppola**, two graduate students, joined the Jerry Zhao Lab. **Welcome Amanda and Mercedes!** <br>
   <br>
 
+**08/28/2026:**  **Jerry** gave a talk at the **2nd Annual Retreat of Biomedical Data Science Center (BDSC).** Happy to share our story about long genes.<br>
+  <br>
+
 **07/01/2026:**  **Jerry** gave a talk at the **2026 Proteoglycans Gordon Research Conference.** Happy to catch up with old friends and made new friends during the GRC meeting.<br>
   <br>
   
