@@ -70,8 +70,9 @@ Amanda is a biomedical science master’s student at New York Institute of Techn
  <br>
  <br>
 
+<img width="300" src="/img/Amanda.jpg" data-action="zoom"><br>
 Mercedes Coppola <br>
-
+Mercedes is a biomedical science master's student at New York Institute of Technology. She graduated from Point Loma Nazarene University with a BS in Biology. In the Jerry Zhao lab, Mercedes is interested in studying changes in cell death and perineuronal nets during traumatic brain injury scarring and repair. In her free time, Mercedes enjoys baking, scrap booking, and taking yoga classes. <br>
  <br>
  <br>
 
