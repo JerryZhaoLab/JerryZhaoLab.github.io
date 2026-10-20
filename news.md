@@ -10,6 +10,12 @@ permalink: /news/
   
 # <span style="color:tomato;">2026</span>
 
+**09/18/2026:**  **Amanda Chiu** and **Mercedes Coppola**, two graduate students, joined the Jerry Zhao Lab. **Welcome Amanda and Mercedes!** <br>
+  <br>
+
+**07/01/2026:**  **Jerry** gave a talk at the **2026 Proteoglycans Gordon Research Conference.** Happy to catch up with old friends and made new friends during the GRC meeting.<br>
+  <br>
+  
 **06/26/2026:**  **Lisa** left the Jerry Zhao Lab and begins her medical school journey today. **Good Luck, Lisa.** <br>
   <br>
 
