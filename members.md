@@ -131,7 +131,7 @@ Sohyun Moon (Postdoc, Instructor, 2020-2025)<br>
  <br> 
 Nishi Banker (NYIT Undergraduate Student, 2026-2026)<br>
  <br> 
-Lisa Cheung (Technician, 2024-2026) <br>
+Lisa Cheung (Research Technician, 2024-2026) <br>
  <br> 
 
  
